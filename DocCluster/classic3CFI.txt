@@ -1,0 +1,1345 @@
+
+# of documents: 3893, min_sup = 0.030000
+
+Frequent one itemsets:
+(account,0) (activ,1) (addit,2) (administr,3) (advanc,4) (aerodynam,5) (affect,6) (ag,7) (agreement,8) (air,9) (analysi,10) (analyt,11) (analyz,12) (angl,13) (appear,14) (appli,15) (applic,16) (approach,17) (approxim,18) (area,19) (articl,20) (aspect,21) (associ,22) (assum,23) (assumpt,24) (attack,25) (attempt,26) (author,27) (avail,28) (averag,29) (axial,30) (base,31) (basi,32) (basic,33) (behavior,34) (bibliograph,35) (blood,36) (blunt,37) (bodi,38) (book,39) (boundari,40) (buckl,41) (calcul,42) (carri,43) (case,44) (caus,45) (cell,46) (center,47) (chang,48) (characterist,49) (chemic,50) (circular,51) (clinic,52) (close,53) (coeffici,54) (collect,55) (combin,56) (commun,57) (compar,58) (comparison,59) (complet,60) (compon,61) (compress,62) (comput,63) (concentr,64) (concept,65) (concern,66) (conclud,67) (conclus,68) (condit,69) (conduct,70) (cone,71) (consid,72) (consider,73) (consist,74) (constant,75) (contain,76) (content,77) (continu,78) (control,79) (correct,80) (correl,81) (correspond,82) (cost,83) (cours,84) (cover,85) (critic,86) (current,87) (curv,88) (cylind,89) (data,90) (deal,91) (decreas,92) (defin,93) (degre,94) (demonstr,95) (depend,96) (deriv,97) (describ,98) (descript,99) (design,100) (detail,101) (determin,102) (develop,103) (differ,104) (differenti,105) (dimension,106) (direct,107) (discuss,108) (diseas,109) (distanc,110) (distribut,111) (document,112) (drag,113) (earli,114) (edg,115) (effect,116) (effici,117) (emploi,118) (energi,119) (equat,120) (essenti,121) (establish,122) (estim,123) (evalu,124) (evid,125) (exact,126) (examin,127) (exampl,128) (exist,129) (experi,130) (experiment,131) (express,132) (extend,133) (extens,134) (factor,135) (featur,136) (field,137) (find,138) (flat,139) (flight,140) (flow,141) (fluid,142) (forc,143) (form,144) (format,145) (formula,146) (free,147) (frequenc,148) (function,149) (ga,150) (gener,151) (gradient,152) (group,153) (growth,154) (heat,155) (human,156) (hyperson,157) (identifi,158) (illustr,159) (import,160) (improv,161) (incompress,162) (increas,163) (index,164) (indic,165) (individu,166) (induc,167) (influenc,168) (inform,169) (initi,170) (inject,171) (institut,172) (integr,173) (interact,174) (intern,175) (investig,176) (involv,177) (knowledg,178) (known,179) (laminar,180) (languag,181) (layer,182) (lead,183) (length,184) (level,185) (librari,186) (librarian,187) (lift,188) (limit,189) (line,190) (linear,191) (literatur,192) (load,193) (local,194) (locat,195) (mach,196) (machin,197) (main,198) (major,199) (manag,200) (materi,201) (maximum,202) (mean,203) (measur,204) (mechan,205) (method,206) (model,207) (motion,208) (nation,209) (natur,210) (non,211) (normal,212) (number,213) (numer,214) (object,215) (observ,216) (occur,217) (oper,218) (order,219) (organ,220) (origin,221) (paper,222) (paramet,223) (patient,224) (pattern,225) (perform,226) (period,227) (physic,228) (place,229) (plan,230) (plate,231) (point,232) (posit,233) (potenti,234) (power,235) (practic,236) (predict,237) (prepar,238) (presenc,239) (present,240) (pressur,241) (previou,242) (problem,243) (procedur,244) (process,245) (produc,246) (product,247) (profil,248) (program,249) (progress,250) (properti,251) (propos,252) (public,253) (publish,254) (purpos,255) (question,256) (rang,257) (rate,258) (ratio,259) (reaction,260) (reason,261) (record,262) (reduc,263) (refer,264) (regard,265) (region,266) (relat,267) (relationship,268) (relev,269) (remain,270) (report,271) (repres,272) (requir,273) (research,274) (respect,275) (respons,276) (result,277) (retriev,278) (review,279) (reynold,280) (role,281) (scienc,282) (scientif,283) (scientist,284) (search,285) (section,286) (select,287) (separ,288) (seri,289) (servic,290) (set,291) (shape,292) (shock,293) (size,294) (skin,295) (social,296) (solut,297) (sourc,298) (special,299) (specif,300) (speed,301) (stabil,302) (stagnat,303) (standard,304) (state,305) (statist,306) (steadi,307) (stream,308) (stress,309) (structur,310) (studi,311) (subject,312) (suggest,313) (superson,314) (support,315) (surfac,316) (survei,317) (system,318) (technic,319) (techniqu,320) (temperatur,321) (term,322) (test,323) (theoret,324) (theori,325) (thick,326) (tissu,327) (titl,328) (total,329) (transfer,330) (treat,331) (treatment,332) (tunnel,333) (turbul,334) (type,335) (uniform,336) (unit,337) (univers,338) (util,339) (valu,340) (vari,341) (variabl,342) (variat,343) (veloc,344) (view,345) (viscou,346) (volum,347) (wall,348) (wave,349) (weight,350) (wind,351) (wing,352) (work,353) (year,354) (yield,355) (zero,356) 
+********
+* FIHC *
+********
+Current System Time = 1032040800
+*** Computing global frequent itemsets using Apriori
+F1 size [357]
+F2 size [585]
+F3 size [162]
+F4 size [17]
+Global frequent itemsets
+{ 0 } with Global Support = 0.045466
+{ 1 } with Global Support = 0.074236
+{ 2 } with Global Support = 0.063704
+{ 3 } with Global Support = 0.030311
+{ 4 } with Global Support = 0.031852
+{ 5 } with Global Support = 0.045980
+{ 6 } with Global Support = 0.038017
+{ 7 } with Global Support = 0.033136
+{ 8 } with Global Support = 0.052402
+{ 9 } with Global Support = 0.055998
+{ 10 } with Global Support = 0.129720
+{ 11 } with Global Support = 0.032880
+{ 12 } with Global Support = 0.044696
+{ 13 } with Global Support = 0.054714
+{ 14 } with Global Support = 0.088877
+{ 15 } with Global Support = 0.084254
+{ 16 } with Global Support = 0.098382
+{ 17 } with Global Support = 0.061135
+{ 18 } with Global Support = 0.116620
+{ 19 } with Global Support = 0.062420
+{ 20 } with Global Support = 0.037246
+{ 21 } with Global Support = 0.052402
+{ 22 } with Global Support = 0.075520
+{ 23 } with Global Support = 0.054970
+{ 24 } with Global Support = 0.035191
+{ 25 } with Global Support = 0.032109
+{ 26 } with Global Support = 0.050090
+{ 27 } with Global Support = 0.081171
+{ 28 } with Global Support = 0.061135
+{ 29 } with Global Support = 0.034678
+{ 30 } with Global Support = 0.037760
+{ 31 } with Global Support = 0.137426
+{ 32 } with Global Support = 0.054970
+{ 33 } with Global Support = 0.047007
+{ 34 } with Global Support = 0.035191
+{ 35 } with Global Support = 0.035448
+{ 36 } with Global Support = 0.038274
+{ 37 } with Global Support = 0.036219
+{ 38 } with Global Support = 0.104803
+{ 39 } with Global Support = 0.075520
+{ 40 } with Global Support = 0.122528
+{ 41 } with Global Support = 0.032623
+{ 42 } with Global Support = 0.093758
+{ 43 } with Global Support = 0.043668
+{ 44 } with Global Support = 0.177498
+{ 45 } with Global Support = 0.058053
+{ 46 } with Global Support = 0.056255
+{ 47 } with Global Support = 0.037246
+{ 48 } with Global Support = 0.108913
+{ 49 } with Global Support = 0.084768
+{ 50 } with Global Support = 0.036733
+{ 51 } with Global Support = 0.036476
+{ 52 } with Global Support = 0.037246
+{ 53 } with Global Support = 0.046751
+{ 54 } with Global Support = 0.060365
+{ 55 } with Global Support = 0.054457
+{ 56 } with Global Support = 0.056255
+{ 57 } with Global Support = 0.054714
+{ 58 } with Global Support = 0.124583
+{ 59 } with Global Support = 0.057539
+{ 60 } with Global Support = 0.060365
+{ 61 } with Global Support = 0.033136
+{ 62 } with Global Support = 0.057282
+{ 63 } with Global Support = 0.043925
+{ 64 } with Global Support = 0.036733
+{ 65 } with Global Support = 0.057796
+{ 66 } with Global Support = 0.064988
+{ 67 } with Global Support = 0.033907
+{ 68 } with Global Support = 0.034164
+{ 69 } with Global Support = 0.121757
+{ 70 } with Global Support = 0.059080
+{ 71 } with Global Support = 0.030568
+{ 72 } with Global Support = 0.116620
+{ 73 } with Global Support = 0.079630
+{ 74 } with Global Support = 0.055998
+{ 75 } with Global Support = 0.059080
+{ 76 } with Global Support = 0.048292
+{ 77 } with Global Support = 0.033907
+{ 78 } with Global Support = 0.047264
+{ 79 } with Global Support = 0.071153
+{ 80 } with Global Support = 0.030825
+{ 81 } with Global Support = 0.043668
+{ 82 } with Global Support = 0.043411
+{ 83 } with Global Support = 0.037246
+{ 84 } with Global Support = 0.031852
+{ 85 } with Global Support = 0.030311
+{ 86 } with Global Support = 0.038274
+{ 87 } with Global Support = 0.051374
+{ 88 } with Global Support = 0.039558
+{ 89 } with Global Support = 0.045723
+{ 90 } with Global Support = 0.150013
+{ 91 } with Global Support = 0.034678
+{ 92 } with Global Support = 0.051117
+{ 93 } with Global Support = 0.041870
+{ 94 } with Global Support = 0.048292
+{ 95 } with Global Support = 0.047007
+{ 96 } with Global Support = 0.052659
+{ 97 } with Global Support = 0.080658
+{ 98 } with Global Support = 0.128436
+{ 99 } with Global Support = 0.037760
+{ 100 } with Global Support = 0.090162
+{ 101 } with Global Support = 0.038531
+{ 102 } with Global Support = 0.134344
+{ 103 } with Global Support = 0.207038
+{ 104 } with Global Support = 0.070896
+{ 105 } with Global Support = 0.042898
+{ 106 } with Global Support = 0.061906
+{ 107 } with Global Support = 0.065759
+{ 108 } with Global Support = 0.173388
+{ 109 } with Global Support = 0.038788
+{ 110 } with Global Support = 0.032880
+{ 111 } with Global Support = 0.121757
+{ 112 } with Global Support = 0.062677
+{ 113 } with Global Support = 0.035962
+{ 114 } with Global Support = 0.033650
+{ 115 } with Global Support = 0.048806
+{ 116 } with Global Support = 0.245055
+{ 117 } with Global Support = 0.030568
+{ 118 } with Global Support = 0.034934
+{ 119 } with Global Support = 0.030825
+{ 120 } with Global Support = 0.106345
+{ 121 } with Global Support = 0.034421
+{ 122 } with Global Support = 0.051374
+{ 123 } with Global Support = 0.046494
+{ 124 } with Global Support = 0.071153
+{ 125 } with Global Support = 0.046237
+{ 126 } with Global Support = 0.031338
+{ 127 } with Global Support = 0.068842
+{ 128 } with Global Support = 0.062163
+{ 129 } with Global Support = 0.066787
+{ 130 } with Global Support = 0.100180
+{ 131 } with Global Support = 0.117133
+{ 132 } with Global Support = 0.054714
+{ 133 } with Global Support = 0.032880
+{ 134 } with Global Support = 0.034678
+{ 135 } with Global Support = 0.074236
+{ 136 } with Global Support = 0.032880
+{ 137 } with Global Support = 0.098382
+{ 138 } with Global Support = 0.044696
+{ 139 } with Global Support = 0.048806
+{ 140 } with Global Support = 0.034678
+{ 141 } with Global Support = 0.206781
+{ 142 } with Global Support = 0.052915
+{ 143 } with Global Support = 0.054457
+{ 144 } with Global Support = 0.133573
+{ 145 } with Global Support = 0.030054
+{ 146 } with Global Support = 0.032623
+{ 147 } with Global Support = 0.075006
+{ 148 } with Global Support = 0.032880
+{ 149 } with Global Support = 0.096840
+{ 150 } with Global Support = 0.035962
+{ 151 } with Global Support = 0.063961
+{ 152 } with Global Support = 0.032109
+{ 153 } with Global Support = 0.074750
+{ 154 } with Global Support = 0.051374
+{ 155 } with Global Support = 0.081171
+{ 156 } with Global Support = 0.046494
+{ 157 } with Global Support = 0.043668
+{ 158 } with Global Support = 0.032366
+{ 159 } with Global Support = 0.034421
+{ 160 } with Global Support = 0.031852
+{ 161 } with Global Support = 0.047521
+{ 162 } with Global Support = 0.033907
+{ 163 } with Global Support = 0.141279
+{ 164 } with Global Support = 0.068071
+{ 165 } with Global Support = 0.124326
+{ 166 } with Global Support = 0.038017
+{ 167 } with Global Support = 0.043154
+{ 168 } with Global Support = 0.055741
+{ 169 } with Global Support = 0.176984
+{ 170 } with Global Support = 0.054200
+{ 171 } with Global Support = 0.036989
+{ 172 } with Global Support = 0.032623
+{ 173 } with Global Support = 0.051117
+{ 174 } with Global Support = 0.041356
+{ 175 } with Global Support = 0.038274
+{ 176 } with Global Support = 0.139995
+{ 177 } with Global Support = 0.064732
+{ 178 } with Global Support = 0.034934
+{ 179 } with Global Support = 0.047521
+{ 180 } with Global Support = 0.060108
+{ 181 } with Global Support = 0.035962
+{ 182 } with Global Support = 0.108143
+{ 183 } with Global Support = 0.068071
+{ 184 } with Global Support = 0.035448
+{ 185 } with Global Support = 0.066273
+{ 186 } with Global Support = 0.135114
+{ 187 } with Global Support = 0.040586
+{ 188 } with Global Support = 0.040843
+{ 189 } with Global Support = 0.066787
+{ 190 } with Global Support = 0.053686
+{ 191 } with Global Support = 0.046494
+{ 192 } with Global Support = 0.063190
+{ 193 } with Global Support = 0.054200
+{ 194 } with Global Support = 0.051117
+{ 195 } with Global Support = 0.031081
+{ 196 } with Global Support = 0.099666
+{ 197 } with Global Support = 0.032366
+{ 198 } with Global Support = 0.034164
+{ 199 } with Global Support = 0.058567
+{ 200 } with Global Support = 0.030568
+{ 201 } with Global Support = 0.063447
+{ 202 } with Global Support = 0.039301
+{ 203 } with Global Support = 0.096584
+{ 204 } with Global Support = 0.130234
+{ 205 } with Global Support = 0.048549
+{ 206 } with Global Support = 0.212689
+{ 207 } with Global Support = 0.073722
+{ 208 } with Global Support = 0.032109
+{ 209 } with Global Support = 0.035448
+{ 210 } with Global Support = 0.060622
+{ 211 } with Global Support = 0.038788
+{ 212 } with Global Support = 0.091446
+{ 213 } with Global Support = 0.222707
+{ 214 } with Global Support = 0.062420
+{ 215 } with Global Support = 0.038274
+{ 216 } with Global Support = 0.087079
+{ 217 } with Global Support = 0.077061
+{ 218 } with Global Support = 0.086052
+{ 219 } with Global Support = 0.088621
+{ 220 } with Global Support = 0.064475
+{ 221 } with Global Support = 0.049576
+{ 222 } with Global Support = 0.127665
+{ 223 } with Global Support = 0.049576
+{ 224 } with Global Support = 0.078089
+{ 225 } with Global Support = 0.045980
+{ 226 } with Global Support = 0.070640
+{ 227 } with Global Support = 0.070383
+{ 228 } with Global Support = 0.040329
+{ 229 } with Global Support = 0.030311
+{ 230 } with Global Support = 0.033650
+{ 231 } with Global Support = 0.060108
+{ 232 } with Global Support = 0.096584
+{ 233 } with Global Support = 0.044439
+{ 234 } with Global Support = 0.038274
+{ 235 } with Global Support = 0.033136
+{ 236 } with Global Support = 0.070640
+{ 237 } with Global Support = 0.061649
+{ 238 } with Global Support = 0.035191
+{ 239 } with Global Support = 0.040072
+{ 240 } with Global Support = 0.272284
+{ 241 } with Global Support = 0.159774
+{ 242 } with Global Support = 0.030311
+{ 243 } with Global Support = 0.171847
+{ 244 } with Global Support = 0.063704
+{ 245 } with Global Support = 0.089905
+{ 246 } with Global Support = 0.073465
+{ 247 } with Global Support = 0.045980
+{ 248 } with Global Support = 0.040072
+{ 249 } with Global Support = 0.051374
+{ 250 } with Global Support = 0.030054
+{ 251 } with Global Support = 0.047778
+{ 252 } with Global Support = 0.039815
+{ 253 } with Global Support = 0.048806
+{ 254 } with Global Support = 0.041870
+{ 255 } with Global Support = 0.060879
+{ 256 } with Global Support = 0.041613
+{ 257 } with Global Support = 0.098639
+{ 258 } with Global Support = 0.078603
+{ 259 } with Global Support = 0.090162
+{ 260 } with Global Support = 0.031852
+{ 261 } with Global Support = 0.043154
+{ 262 } with Global Support = 0.041099
+{ 263 } with Global Support = 0.058053
+{ 264 } with Global Support = 0.068328
+{ 265 } with Global Support = 0.033393
+{ 266 } with Global Support = 0.055227
+{ 267 } with Global Support = 0.121500
+{ 268 } with Global Support = 0.041870
+{ 269 } with Global Support = 0.034934
+{ 270 } with Global Support = 0.044182
+{ 271 } with Global Support = 0.105060
+{ 272 } with Global Support = 0.057282
+{ 273 } with Global Support = 0.090676
+{ 274 } with Global Support = 0.106345
+{ 275 } with Global Support = 0.034678
+{ 276 } with Global Support = 0.059851
+{ 277 } with Global Support = 0.323144
+{ 278 } with Global Support = 0.068071
+{ 279 } with Global Support = 0.054714
+{ 280 } with Global Support = 0.051374
+{ 281 } with Global Support = 0.031081
+{ 282 } with Global Support = 0.067557
+{ 283 } with Global Support = 0.053943
+{ 284 } with Global Support = 0.030825
+{ 285 } with Global Support = 0.053686
+{ 286 } with Global Support = 0.049319
+{ 287 } with Global Support = 0.060108
+{ 288 } with Global Support = 0.063190
+{ 289 } with Global Support = 0.046494
+{ 290 } with Global Support = 0.064732
+{ 291 } with Global Support = 0.049062
+{ 292 } with Global Support = 0.056512
+{ 293 } with Global Support = 0.062933
+{ 294 } with Global Support = 0.035448
+{ 295 } with Global Support = 0.030054
+{ 296 } with Global Support = 0.033907
+{ 297 } with Global Support = 0.125353
+{ 298 } with Global Support = 0.038788
+{ 299 } with Global Support = 0.059337
+{ 300 } with Global Support = 0.069869
+{ 301 } with Global Support = 0.079887
+{ 302 } with Global Support = 0.034934
+{ 303 } with Global Support = 0.034421
+{ 304 } with Global Support = 0.032109
+{ 305 } with Global Support = 0.066016
+{ 306 } with Global Support = 0.034421
+{ 307 } with Global Support = 0.030311
+{ 308 } with Global Support = 0.065245
+{ 309 } with Global Support = 0.049576
+{ 310 } with Global Support = 0.080401
+{ 311 } with Global Support = 0.240688
+{ 312 } with Global Support = 0.109684
+{ 313 } with Global Support = 0.095556
+{ 314 } with Global Support = 0.069355
+{ 315 } with Global Support = 0.045466
+{ 316 } with Global Support = 0.094015
+{ 317 } with Global Support = 0.041613
+{ 318 } with Global Support = 0.075006
+{ 319 } with Global Support = 0.037246
+{ 320 } with Global Support = 0.083997
+{ 321 } with Global Support = 0.078346
+{ 322 } with Global Support = 0.109170
+{ 323 } with Global Support = 0.126124
+{ 324 } with Global Support = 0.076291
+{ 325 } with Global Support = 0.153352
+{ 326 } with Global Support = 0.045466
+{ 327 } with Global Support = 0.037760
+{ 328 } with Global Support = 0.034421
+{ 329 } with Global Support = 0.061649
+{ 330 } with Global Support = 0.066530
+{ 331 } with Global Support = 0.051374
+{ 332 } with Global Support = 0.060365
+{ 333 } with Global Support = 0.046494
+{ 334 } with Global Support = 0.037503
+{ 335 } with Global Support = 0.112767
+{ 336 } with Global Support = 0.034934
+{ 337 } with Global Support = 0.034164
+{ 338 } with Global Support = 0.047521
+{ 339 } with Global Support = 0.034934
+{ 340 } with Global Support = 0.123298
+{ 341 } with Global Support = 0.057796
+{ 342 } with Global Support = 0.038788
+{ 343 } with Global Support = 0.047521
+{ 344 } with Global Support = 0.081942
+{ 345 } with Global Support = 0.033136
+{ 346 } with Global Support = 0.031338
+{ 347 } with Global Support = 0.035705
+{ 348 } with Global Support = 0.054457
+{ 349 } with Global Support = 0.055741
+{ 350 } with Global Support = 0.031081
+{ 351 } with Global Support = 0.032623
+{ 352 } with Global Support = 0.058310
+{ 353 } with Global Support = 0.097354
+{ 354 } with Global Support = 0.062420
+{ 355 } with Global Support = 0.030311
+{ 356 } with Global Support = 0.037503
+{ 8 277 } with Global Support = 0.033907
+{ 10 116 } with Global Support = 0.038788
+{ 10 141 } with Global Support = 0.039815
+{ 10 206 } with Global Support = 0.042127
+{ 10 213 } with Global Support = 0.033650
+{ 10 240 } with Global Support = 0.051117
+{ 10 241 } with Global Support = 0.030568
+{ 10 243 } with Global Support = 0.032366
+{ 10 277 } with Global Support = 0.057796
+{ 10 311 } with Global Support = 0.035448
+{ 13 141 } with Global Support = 0.033136
+{ 13 213 } with Global Support = 0.032880
+{ 13 241 } with Global Support = 0.030825
+{ 15 141 } with Global Support = 0.032623
+{ 15 206 } with Global Support = 0.036989
+{ 15 277 } with Global Support = 0.041870
+{ 16 103 } with Global Support = 0.030054
+{ 16 141 } with Global Support = 0.030054
+{ 16 206 } with Global Support = 0.040843
+{ 16 240 } with Global Support = 0.037503
+{ 16 277 } with Global Support = 0.043668
+{ 16 325 } with Global Support = 0.031338
+{ 18 40 } with Global Support = 0.043154
+{ 18 42 } with Global Support = 0.031595
+{ 18 44 } with Global Support = 0.032880
+{ 18 69 } with Global Support = 0.030054
+{ 18 111 } with Global Support = 0.033907
+{ 18 116 } with Global Support = 0.041356
+{ 18 120 } with Global Support = 0.039044
+{ 18 141 } with Global Support = 0.062163
+{ 18 182 } with Global Support = 0.036733
+{ 18 196 } with Global Support = 0.033907
+{ 18 206 } with Global Support = 0.044952
+{ 18 213 } with Global Support = 0.053943
+{ 18 240 } with Global Support = 0.041870
+{ 18 241 } with Global Support = 0.044696
+{ 18 277 } with Global Support = 0.061906
+{ 18 297 } with Global Support = 0.044439
+{ 18 316 } with Global Support = 0.030311
+{ 18 325 } with Global Support = 0.039301
+{ 18 340 } with Global Support = 0.032109
+{ 31 90 } with Global Support = 0.045980
+{ 31 103 } with Global Support = 0.037246
+{ 31 116 } with Global Support = 0.041870
+{ 31 141 } with Global Support = 0.038788
+{ 31 169 } with Global Support = 0.038017
+{ 31 206 } with Global Support = 0.033650
+{ 31 213 } with Global Support = 0.048806
+{ 31 240 } with Global Support = 0.043925
+{ 31 241 } with Global Support = 0.033393
+{ 31 277 } with Global Support = 0.057282
+{ 31 311 } with Global Support = 0.031081
+{ 31 325 } with Global Support = 0.031081
+{ 38 116 } with Global Support = 0.040329
+{ 38 141 } with Global Support = 0.054200
+{ 38 206 } with Global Support = 0.034934
+{ 38 213 } with Global Support = 0.043925
+{ 38 240 } with Global Support = 0.039044
+{ 38 241 } with Global Support = 0.041356
+{ 38 277 } with Global Support = 0.045980
+{ 38 325 } with Global Support = 0.036476
+{ 39 186 } with Global Support = 0.038017
+{ 40 44 } with Global Support = 0.041356
+{ 40 69 } with Global Support = 0.045466
+{ 40 106 } with Global Support = 0.030825
+{ 40 111 } with Global Support = 0.036476
+{ 40 116 } with Global Support = 0.059080
+{ 40 120 } with Global Support = 0.044439
+{ 40 131 } with Global Support = 0.031338
+{ 40 141 } with Global Support = 0.081942
+{ 40 155 } with Global Support = 0.040586
+{ 40 176 } with Global Support = 0.034164
+{ 40 180 } with Global Support = 0.048549
+{ 40 182 } with Global Support = 0.095299
+{ 40 196 } with Global Support = 0.043925
+{ 40 206 } with Global Support = 0.046494
+{ 40 213 } with Global Support = 0.067043
+{ 40 231 } with Global Support = 0.034164
+{ 40 232 } with Global Support = 0.030054
+{ 40 240 } with Global Support = 0.047521
+{ 40 241 } with Global Support = 0.053943
+{ 40 243 } with Global Support = 0.033136
+{ 40 277 } with Global Support = 0.061649
+{ 40 280 } with Global Support = 0.032109
+{ 40 297 } with Global Support = 0.050861
+{ 40 308 } with Global Support = 0.035705
+{ 40 316 } with Global Support = 0.039815
+{ 40 321 } with Global Support = 0.032623
+{ 40 325 } with Global Support = 0.035962
+{ 40 330 } with Global Support = 0.034678
+{ 40 340 } with Global Support = 0.034934
+{ 40 344 } with Global Support = 0.040843
+{ 40 348 } with Global Support = 0.030568
+{ 42 111 } with Global Support = 0.035448
+{ 42 116 } with Global Support = 0.036219
+{ 42 141 } with Global Support = 0.052145
+{ 42 206 } with Global Support = 0.044696
+{ 42 213 } with Global Support = 0.041356
+{ 42 240 } with Global Support = 0.035705
+{ 42 241 } with Global Support = 0.042898
+{ 42 277 } with Global Support = 0.050347
+{ 42 325 } with Global Support = 0.036476
+{ 44 69 } with Global Support = 0.039301
+{ 44 72 } with Global Support = 0.035962
+{ 44 103 } with Global Support = 0.035962
+{ 44 108 } with Global Support = 0.036476
+{ 44 111 } with Global Support = 0.030825
+{ 44 116 } with Global Support = 0.049833
+{ 44 120 } with Global Support = 0.041870
+{ 44 141 } with Global Support = 0.061906
+{ 44 144 } with Global Support = 0.034164
+{ 44 182 } with Global Support = 0.035962
+{ 44 206 } with Global Support = 0.045980
+{ 44 213 } with Global Support = 0.043668
+{ 44 240 } with Global Support = 0.064218
+{ 44 241 } with Global Support = 0.044696
+{ 44 243 } with Global Support = 0.039044
+{ 44 277 } with Global Support = 0.076291
+{ 44 297 } with Global Support = 0.045723
+{ 44 311 } with Global Support = 0.041870
+{ 44 325 } with Global Support = 0.035962
+{ 44 340 } with Global Support = 0.032109
+{ 44 344 } with Global Support = 0.031852
+{ 48 116 } with Global Support = 0.034934
+{ 48 163 } with Global Support = 0.031338
+{ 48 277 } with Global Support = 0.042641
+{ 48 311 } with Global Support = 0.032623
+{ 49 141 } with Global Support = 0.030311
+{ 49 213 } with Global Support = 0.032109
+{ 49 277 } with Global Support = 0.032880
+{ 54 141 } with Global Support = 0.036476
+{ 54 213 } with Global Support = 0.031081
+{ 54 241 } with Global Support = 0.030054
+{ 54 277 } with Global Support = 0.031852
+{ 58 116 } with Global Support = 0.038274
+{ 58 141 } with Global Support = 0.036476
+{ 58 206 } with Global Support = 0.039815
+{ 58 213 } with Global Support = 0.042898
+{ 58 240 } with Global Support = 0.038274
+{ 58 241 } with Global Support = 0.034421
+{ 58 277 } with Global Support = 0.066016
+{ 58 311 } with Global Support = 0.034164
+{ 58 325 } with Global Support = 0.032880
+{ 59 277 } with Global Support = 0.030825
+{ 69 116 } with Global Support = 0.045466
+{ 69 120 } with Global Support = 0.032109
+{ 69 141 } with Global Support = 0.053429
+{ 69 176 } with Global Support = 0.031852
+{ 69 182 } with Global Support = 0.031595
+{ 69 206 } with Global Support = 0.039301
+{ 69 213 } with Global Support = 0.044182
+{ 69 240 } with Global Support = 0.043668
+{ 69 241 } with Global Support = 0.040843
+{ 69 243 } with Global Support = 0.030311
+{ 69 277 } with Global Support = 0.060365
+{ 69 297 } with Global Support = 0.036219
+{ 72 116 } with Global Support = 0.038017
+{ 72 141 } with Global Support = 0.040843
+{ 72 206 } with Global Support = 0.034421
+{ 72 213 } with Global Support = 0.034164
+{ 72 240 } with Global Support = 0.038274
+{ 72 241 } with Global Support = 0.031595
+{ 72 243 } with Global Support = 0.030568
+{ 72 277 } with Global Support = 0.047778
+{ 73 116 } with Global Support = 0.031852
+{ 73 277 } with Global Support = 0.033650
+{ 90 103 } with Global Support = 0.036219
+{ 90 116 } with Global Support = 0.043411
+{ 90 131 } with Global Support = 0.032880
+{ 90 141 } with Global Support = 0.034164
+{ 90 169 } with Global Support = 0.040586
+{ 90 206 } with Global Support = 0.036476
+{ 90 213 } with Global Support = 0.044439
+{ 90 240 } with Global Support = 0.049062
+{ 90 243 } with Global Support = 0.030311
+{ 90 277 } with Global Support = 0.053429
+{ 90 311 } with Global Support = 0.039815
+{ 90 323 } with Global Support = 0.031852
+{ 92 163 } with Global Support = 0.032109
+{ 97 277 } with Global Support = 0.037246
+{ 98 108 } with Global Support = 0.030311
+{ 98 169 } with Global Support = 0.030311
+{ 98 206 } with Global Support = 0.040586
+{ 98 240 } with Global Support = 0.034164
+{ 98 277 } with Global Support = 0.038531
+{ 100 169 } with Global Support = 0.030311
+{ 102 111 } with Global Support = 0.031338
+{ 102 116 } with Global Support = 0.047521
+{ 102 141 } with Global Support = 0.045980
+{ 102 176 } with Global Support = 0.030311
+{ 102 206 } with Global Support = 0.043668
+{ 102 213 } with Global Support = 0.045209
+{ 102 240 } with Global Support = 0.039301
+{ 102 241 } with Global Support = 0.036989
+{ 102 277 } with Global Support = 0.059337
+{ 102 311 } with Global Support = 0.036733
+{ 102 340 } with Global Support = 0.030825
+{ 103 108 } with Global Support = 0.041099
+{ 103 116 } with Global Support = 0.045723
+{ 103 141 } with Global Support = 0.044952
+{ 103 144 } with Global Support = 0.031338
+{ 103 169 } with Global Support = 0.049576
+{ 103 186 } with Global Support = 0.033650
+{ 103 206 } with Global Support = 0.053429
+{ 103 213 } with Global Support = 0.043154
+{ 103 240 } with Global Support = 0.061649
+{ 103 241 } with Global Support = 0.030054
+{ 103 243 } with Global Support = 0.045209
+{ 103 274 } with Global Support = 0.034934
+{ 103 277 } with Global Support = 0.066530
+{ 103 311 } with Global Support = 0.050090
+{ 103 325 } with Global Support = 0.042641
+{ 103 353 } with Global Support = 0.031852
+{ 106 141 } with Global Support = 0.049062
+{ 106 213 } with Global Support = 0.031852
+{ 106 277 } with Global Support = 0.033393
+{ 108 116 } with Global Support = 0.043411
+{ 108 141 } with Global Support = 0.038531
+{ 108 169 } with Global Support = 0.036219
+{ 108 206 } with Global Support = 0.046494
+{ 108 213 } with Global Support = 0.038017
+{ 108 222 } with Global Support = 0.035448
+{ 108 240 } with Global Support = 0.051631
+{ 108 243 } with Global Support = 0.047264
+{ 108 277 } with Global Support = 0.062163
+{ 108 311 } with Global Support = 0.035191
+{ 111 116 } with Global Support = 0.040072
+{ 111 141 } with Global Support = 0.060108
+{ 111 176 } with Global Support = 0.030311
+{ 111 182 } with Global Support = 0.033907
+{ 111 196 } with Global Support = 0.034678
+{ 111 206 } with Global Support = 0.042641
+{ 111 213 } with Global Support = 0.052145
+{ 111 240 } with Global Support = 0.034934
+{ 111 241 } with Global Support = 0.055998
+{ 111 277 } with Global Support = 0.055227
+{ 111 297 } with Global Support = 0.031081
+{ 111 316 } with Global Support = 0.032109
+{ 111 325 } with Global Support = 0.036219
+{ 111 344 } with Global Support = 0.031852
+{ 112 169 } with Global Support = 0.034934
+{ 115 141 } with Global Support = 0.030568
+{ 116 120 } with Global Support = 0.030568
+{ 116 130 } with Global Support = 0.030825
+{ 116 131 } with Global Support = 0.046494
+{ 116 141 } with Global Support = 0.082713
+{ 116 144 } with Global Support = 0.030311
+{ 116 147 } with Global Support = 0.032623
+{ 116 155 } with Global Support = 0.038788
+{ 116 163 } with Global Support = 0.061649
+{ 116 165 } with Global Support = 0.047521
+{ 116 176 } with Global Support = 0.055227
+{ 116 182 } with Global Support = 0.055227
+{ 116 196 } with Global Support = 0.052659
+{ 116 204 } with Global Support = 0.049833
+{ 116 206 } with Global Support = 0.054200
+{ 116 213 } with Global Support = 0.087336
+{ 116 216 } with Global Support = 0.030568
+{ 116 219 } with Global Support = 0.031595
+{ 116 240 } with Global Support = 0.077318
+{ 116 241 } with Global Support = 0.070383
+{ 116 243 } with Global Support = 0.040329
+{ 116 257 } with Global Support = 0.040843
+{ 116 259 } with Global Support = 0.038788
+{ 116 277 } with Global Support = 0.109941
+{ 116 297 } with Global Support = 0.034164
+{ 116 301 } with Global Support = 0.041356
+{ 116 308 } with Global Support = 0.030311
+{ 116 311 } with Global Support = 0.069612
+{ 116 316 } with Global Support = 0.039301
+{ 116 321 } with Global Support = 0.034678
+{ 116 323 } with Global Support = 0.051117
+{ 116 325 } with Global Support = 0.052659
+{ 116 340 } with Global Support = 0.044439
+{ 116 344 } with Global Support = 0.030568
+{ 120 141 } with Global Support = 0.060879
+{ 120 182 } with Global Support = 0.034934
+{ 120 206 } with Global Support = 0.046237
+{ 120 213 } with Global Support = 0.039558
+{ 120 214 } with Global Support = 0.031081
+{ 120 240 } with Global Support = 0.043154
+{ 120 241 } with Global Support = 0.038531
+{ 120 243 } with Global Support = 0.034164
+{ 120 277 } with Global Support = 0.055741
+{ 120 297 } with Global Support = 0.059594
+{ 120 325 } with Global Support = 0.035448
+{ 120 344 } with Global Support = 0.031852
+{ 130 240 } with Global Support = 0.032109
+{ 130 277 } with Global Support = 0.045723
+{ 131 141 } with Global Support = 0.047778
+{ 131 176 } with Global Support = 0.037246
+{ 131 196 } with Global Support = 0.031595
+{ 131 204 } with Global Support = 0.030568
+{ 131 206 } with Global Support = 0.030568
+{ 131 213 } with Global Support = 0.049319
+{ 131 240 } with Global Support = 0.042898
+{ 131 241 } with Global Support = 0.046494
+{ 131 277 } with Global Support = 0.072181
+{ 131 311 } with Global Support = 0.030825
+{ 131 324 } with Global Support = 0.033393
+{ 131 325 } with Global Support = 0.041870
+{ 137 141 } with Global Support = 0.035191
+{ 137 277 } with Global Support = 0.032880
+{ 139 141 } with Global Support = 0.031852
+{ 139 231 } with Global Support = 0.037503
+{ 141 142 } with Global Support = 0.034934
+{ 141 144 } with Global Support = 0.037760
+{ 141 147 } with Global Support = 0.038531
+{ 141 155 } with Global Support = 0.047264
+{ 141 157 } with Global Support = 0.035448
+{ 141 162 } with Global Support = 0.030311
+{ 141 163 } with Global Support = 0.033650
+{ 141 165 } with Global Support = 0.031852
+{ 141 176 } with Global Support = 0.052915
+{ 141 180 } with Global Support = 0.046494
+{ 141 182 } with Global Support = 0.079373
+{ 141 183 } with Global Support = 0.032366
+{ 141 196 } with Global Support = 0.066787
+{ 141 204 } with Global Support = 0.038274
+{ 141 206 } with Global Support = 0.070126
+{ 141 213 } with Global Support = 0.095813
+{ 141 214 } with Global Support = 0.033136
+{ 141 219 } with Global Support = 0.030054
+{ 141 231 } with Global Support = 0.032880
+{ 141 232 } with Global Support = 0.038531
+{ 141 240 } with Global Support = 0.073208
+{ 141 241 } with Global Support = 0.093758
+{ 141 243 } with Global Support = 0.042898
+{ 141 257 } with Global Support = 0.040586
+{ 141 259 } with Global Support = 0.044182
+{ 141 266 } with Global Support = 0.032880
+{ 141 277 } with Global Support = 0.100694
+{ 141 280 } with Global Support = 0.034421
+{ 141 288 } with Global Support = 0.033136
+{ 141 292 } with Global Support = 0.032366
+{ 141 293 } with Global Support = 0.043925
+{ 141 297 } with Global Support = 0.062677
+{ 141 301 } with Global Support = 0.047007
+{ 141 308 } with Global Support = 0.047778
+{ 141 311 } with Global Support = 0.046237
+{ 141 314 } with Global Support = 0.048549
+{ 141 316 } with Global Support = 0.053943
+{ 141 321 } with Global Support = 0.040072
+{ 141 323 } with Global Support = 0.033907
+{ 141 324 } with Global Support = 0.031081
+{ 141 325 } with Global Support = 0.064988
+{ 141 330 } with Global Support = 0.036476
+{ 141 340 } with Global Support = 0.045209
+{ 141 344 } with Global Support = 0.058567
+{ 141 348 } with Global Support = 0.032366
+{ 141 349 } with Global Support = 0.036476
+{ 141 352 } with Global Support = 0.031081
+{ 144 206 } with Global Support = 0.039815
+{ 144 213 } with Global Support = 0.034164
+{ 144 240 } with Global Support = 0.051374
+{ 144 243 } with Global Support = 0.030054
+{ 144 277 } with Global Support = 0.051374
+{ 144 297 } with Global Support = 0.030568
+{ 144 311 } with Global Support = 0.030568
+{ 147 196 } with Global Support = 0.030054
+{ 147 213 } with Global Support = 0.041356
+{ 147 241 } with Global Support = 0.031338
+{ 147 277 } with Global Support = 0.035448
+{ 147 308 } with Global Support = 0.033393
+{ 149 240 } with Global Support = 0.031081
+{ 149 277 } with Global Support = 0.035962
+{ 155 182 } with Global Support = 0.038017
+{ 155 213 } with Global Support = 0.041099
+{ 155 240 } with Global Support = 0.030825
+{ 155 277 } with Global Support = 0.040843
+{ 155 321 } with Global Support = 0.043668
+{ 155 330 } with Global Support = 0.049319
+{ 163 165 } with Global Support = 0.030054
+{ 163 213 } with Global Support = 0.049062
+{ 163 240 } with Global Support = 0.035191
+{ 163 241 } with Global Support = 0.032366
+{ 163 277 } with Global Support = 0.057796
+{ 163 311 } with Global Support = 0.042641
+{ 164 169 } with Global Support = 0.030311
+{ 165 213 } with Global Support = 0.038017
+{ 165 240 } with Global Support = 0.040329
+{ 165 277 } with Global Support = 0.064732
+{ 165 311 } with Global Support = 0.035448
+{ 169 186 } with Global Support = 0.047007
+{ 169 206 } with Global Support = 0.035962
+{ 169 222 } with Global Support = 0.033650
+{ 169 240 } with Global Support = 0.043411
+{ 169 243 } with Global Support = 0.039558
+{ 169 245 } with Global Support = 0.032880
+{ 169 274 } with Global Support = 0.043154
+{ 169 277 } with Global Support = 0.040843
+{ 169 278 } with Global Support = 0.051117
+{ 169 282 } with Global Support = 0.035705
+{ 169 283 } with Global Support = 0.030825
+{ 169 290 } with Global Support = 0.039301
+{ 169 311 } with Global Support = 0.041870
+{ 169 318 } with Global Support = 0.042641
+{ 169 353 } with Global Support = 0.031338
+{ 176 182 } with Global Support = 0.030054
+{ 176 196 } with Global Support = 0.041613
+{ 176 206 } with Global Support = 0.032880
+{ 176 213 } with Global Support = 0.057282
+{ 176 240 } with Global Support = 0.050090
+{ 176 241 } with Global Support = 0.046494
+{ 176 257 } with Global Support = 0.032109
+{ 176 277 } with Global Support = 0.068842
+{ 176 311 } with Global Support = 0.037503
+{ 176 323 } with Global Support = 0.037246
+{ 176 325 } with Global Support = 0.032109
+{ 176 340 } with Global Support = 0.031338
+{ 180 182 } with Global Support = 0.049319
+{ 180 213 } with Global Support = 0.032109
+{ 182 196 } with Global Support = 0.036989
+{ 182 206 } with Global Support = 0.039301
+{ 182 213 } with Global Support = 0.057025
+{ 182 240 } with Global Support = 0.038531
+{ 182 241 } with Global Support = 0.049576
+{ 182 277 } with Global Support = 0.054200
+{ 182 280 } with Global Support = 0.031081
+{ 182 297 } with Global Support = 0.041356
+{ 182 308 } with Global Support = 0.033393
+{ 182 316 } with Global Support = 0.037246
+{ 182 321 } with Global Support = 0.031595
+{ 182 325 } with Global Support = 0.033393
+{ 182 330 } with Global Support = 0.033393
+{ 182 344 } with Global Support = 0.038788
+{ 183 277 } with Global Support = 0.033907
+{ 186 187 } with Global Support = 0.032366
+{ 186 274 } with Global Support = 0.033650
+{ 186 290 } with Global Support = 0.037246
+{ 186 311 } with Global Support = 0.033136
+{ 196 206 } with Global Support = 0.032109
+{ 196 213 } with Global Support = 0.096327
+{ 196 240 } with Global Support = 0.038274
+{ 196 241 } with Global Support = 0.061649
+{ 196 257 } with Global Support = 0.039044
+{ 196 259 } with Global Support = 0.034678
+{ 196 277 } with Global Support = 0.055227
+{ 196 280 } with Global Support = 0.030054
+{ 196 293 } with Global Support = 0.032366
+{ 196 301 } with Global Support = 0.030311
+{ 196 314 } with Global Support = 0.037503
+{ 196 316 } with Global Support = 0.032366
+{ 196 323 } with Global Support = 0.034934
+{ 196 325 } with Global Support = 0.037503
+{ 203 277 } with Global Support = 0.034421
+{ 204 213 } with Global Support = 0.049833
+{ 204 240 } with Global Support = 0.035191
+{ 204 241 } with Global Support = 0.040586
+{ 204 277 } with Global Support = 0.056769
+{ 204 311 } with Global Support = 0.034164
+{ 204 323 } with Global Support = 0.036733
+{ 206 213 } with Global Support = 0.064218
+{ 206 214 } with Global Support = 0.030311
+{ 206 222 } with Global Support = 0.036476
+{ 206 232 } with Global Support = 0.030825
+{ 206 240 } with Global Support = 0.071410
+{ 206 241 } with Global Support = 0.044952
+{ 206 243 } with Global Support = 0.052915
+{ 206 277 } with Global Support = 0.091703
+{ 206 297 } with Global Support = 0.053429
+{ 206 311 } with Global Support = 0.044182
+{ 206 316 } with Global Support = 0.036476
+{ 206 322 } with Global Support = 0.030568
+{ 206 325 } with Global Support = 0.044439
+{ 206 340 } with Global Support = 0.037760
+{ 207 213 } with Global Support = 0.031338
+{ 207 277 } with Global Support = 0.034164
+{ 212 277 } with Global Support = 0.034421
+{ 213 219 } with Global Support = 0.033650
+{ 213 222 } with Global Support = 0.031852
+{ 213 232 } with Global Support = 0.034678
+{ 213 237 } with Global Support = 0.030054
+{ 213 240 } with Global Support = 0.072438
+{ 213 241 } with Global Support = 0.076034
+{ 213 243 } with Global Support = 0.038531
+{ 213 257 } with Global Support = 0.055484
+{ 213 259 } with Global Support = 0.045723
+{ 213 267 } with Global Support = 0.030568
+{ 213 277 } with Global Support = 0.103005
+{ 213 280 } with Global Support = 0.050090
+{ 213 292 } with Global Support = 0.030311
+{ 213 293 } with Global Support = 0.036733
+{ 213 297 } with Global Support = 0.039558
+{ 213 301 } with Global Support = 0.038788
+{ 213 308 } with Global Support = 0.038017
+{ 213 311 } with Global Support = 0.053172
+{ 213 314 } with Global Support = 0.042127
+{ 213 316 } with Global Support = 0.044439
+{ 213 321 } with Global Support = 0.032623
+{ 213 323 } with Global Support = 0.048549
+{ 213 325 } with Global Support = 0.053172
+{ 213 330 } with Global Support = 0.031852
+{ 213 333 } with Global Support = 0.030568
+{ 213 340 } with Global Support = 0.049319
+{ 213 344 } with Global Support = 0.036989
+{ 214 277 } with Global Support = 0.035191
+{ 214 297 } with Global Support = 0.032109
+{ 216 277 } with Global Support = 0.031338
+{ 216 311 } with Global Support = 0.032623
+{ 217 277 } with Global Support = 0.033907
+{ 219 277 } with Global Support = 0.035448
+{ 222 240 } with Global Support = 0.052402
+{ 222 243 } with Global Support = 0.036989
+{ 222 277 } with Global Support = 0.045723
+{ 232 240 } with Global Support = 0.031338
+{ 232 277 } with Global Support = 0.037503
+{ 237 277 } with Global Support = 0.034164
+{ 237 325 } with Global Support = 0.031852
+{ 240 241 } with Global Support = 0.061392
+{ 240 243 } with Global Support = 0.057539
+{ 240 257 } with Global Support = 0.034678
+{ 240 259 } with Global Support = 0.034934
+{ 240 267 } with Global Support = 0.037503
+{ 240 271 } with Global Support = 0.034678
+{ 240 277 } with Global Support = 0.109684
+{ 240 297 } with Global Support = 0.044696
+{ 240 311 } with Global Support = 0.066016
+{ 240 312 } with Global Support = 0.032109
+{ 240 316 } with Global Support = 0.033393
+{ 240 322 } with Global Support = 0.033650
+{ 240 323 } with Global Support = 0.043154
+{ 240 325 } with Global Support = 0.057539
+{ 240 335 } with Global Support = 0.038788
+{ 240 340 } with Global Support = 0.038788
+{ 240 353 } with Global Support = 0.033907
+{ 241 257 } with Global Support = 0.040072
+{ 241 259 } with Global Support = 0.040843
+{ 241 277 } with Global Support = 0.087850
+{ 241 293 } with Global Support = 0.035448
+{ 241 297 } with Global Support = 0.035962
+{ 241 301 } with Global Support = 0.034934
+{ 241 308 } with Global Support = 0.035448
+{ 241 311 } with Global Support = 0.034421
+{ 241 314 } with Global Support = 0.035191
+{ 241 316 } with Global Support = 0.041356
+{ 241 323 } with Global Support = 0.038531
+{ 241 325 } with Global Support = 0.053429
+{ 241 340 } with Global Support = 0.037246
+{ 241 344 } with Global Support = 0.037503
+{ 243 277 } with Global Support = 0.055227
+{ 243 297 } with Global Support = 0.052145
+{ 243 311 } with Global Support = 0.037503
+{ 243 325 } with Global Support = 0.038531
+{ 257 277 } with Global Support = 0.050090
+{ 258 277 } with Global Support = 0.032109
+{ 259 277 } with Global Support = 0.049833
+{ 267 277 } with Global Support = 0.041613
+{ 267 311 } with Global Support = 0.036733
+{ 271 277 } with Global Support = 0.037760
+{ 271 311 } with Global Support = 0.033136
+{ 273 277 } with Global Support = 0.030311
+{ 274 311 } with Global Support = 0.032109
+{ 277 293 } with Global Support = 0.033650
+{ 277 297 } with Global Support = 0.056769
+{ 277 301 } with Global Support = 0.038531
+{ 277 308 } with Global Support = 0.034421
+{ 277 311 } with Global Support = 0.084511
+{ 277 312 } with Global Support = 0.039558
+{ 277 313 } with Global Support = 0.030825
+{ 277 314 } with Global Support = 0.036989
+{ 277 316 } with Global Support = 0.046494
+{ 277 321 } with Global Support = 0.038531
+{ 277 322 } with Global Support = 0.040072
+{ 277 323 } with Global Support = 0.061649
+{ 277 324 } with Global Support = 0.042384
+{ 277 325 } with Global Support = 0.075263
+{ 277 330 } with Global Support = 0.031852
+{ 277 335 } with Global Support = 0.044182
+{ 277 340 } with Global Support = 0.059594
+{ 277 344 } with Global Support = 0.040843
+{ 277 352 } with Global Support = 0.030568
+{ 277 353 } with Global Support = 0.030568
+{ 293 349 } with Global Support = 0.038274
+{ 297 316 } with Global Support = 0.030825
+{ 297 325 } with Global Support = 0.036476
+{ 297 344 } with Global Support = 0.032880
+{ 311 313 } with Global Support = 0.030825
+{ 311 323 } with Global Support = 0.032366
+{ 311 325 } with Global Support = 0.030568
+{ 311 335 } with Global Support = 0.030054
+{ 316 325 } with Global Support = 0.031081
+{ 324 325 } with Global Support = 0.034934
+{ 325 340 } with Global Support = 0.032623
+{ 333 351 } with Global Support = 0.032366
+{ 18 40 141 } with Global Support = 0.032109
+{ 18 40 182 } with Global Support = 0.034164
+{ 18 141 182 } with Global Support = 0.030054
+{ 18 141 213 } with Global Support = 0.034421
+{ 18 141 241 } with Global Support = 0.032109
+{ 18 141 277 } with Global Support = 0.036989
+{ 18 196 213 } with Global Support = 0.032366
+{ 18 213 277 } with Global Support = 0.032366
+{ 18 241 277 } with Global Support = 0.031081
+{ 38 141 241 } with Global Support = 0.033136
+{ 38 141 277 } with Global Support = 0.030568
+{ 40 44 141 } with Global Support = 0.030568
+{ 40 44 182 } with Global Support = 0.031338
+{ 40 111 182 } with Global Support = 0.030311
+{ 40 116 141 } with Global Support = 0.040843
+{ 40 116 182 } with Global Support = 0.051631
+{ 40 116 213 } with Global Support = 0.038788
+{ 40 116 241 } with Global Support = 0.032109
+{ 40 116 277 } with Global Support = 0.032880
+{ 40 120 141 } with Global Support = 0.033136
+{ 40 120 182 } with Global Support = 0.032366
+{ 40 120 297 } with Global Support = 0.031081
+{ 40 141 180 } with Global Support = 0.037760
+{ 40 141 182 } with Global Support = 0.071667
+{ 40 141 196 } with Global Support = 0.031595
+{ 40 141 206 } with Global Support = 0.030568
+{ 40 141 213 } with Global Support = 0.048292
+{ 40 141 240 } with Global Support = 0.033650
+{ 40 141 241 } with Global Support = 0.041099
+{ 40 141 277 } with Global Support = 0.041356
+{ 40 141 297 } with Global Support = 0.033393
+{ 40 141 344 } with Global Support = 0.032623
+{ 40 155 182 } with Global Support = 0.035962
+{ 40 155 330 } with Global Support = 0.032366
+{ 40 180 182 } with Global Support = 0.047778
+{ 40 182 196 } with Global Support = 0.036476
+{ 40 182 206 } with Global Support = 0.034934
+{ 40 182 213 } with Global Support = 0.054970
+{ 40 182 240 } with Global Support = 0.034934
+{ 40 182 241 } with Global Support = 0.044952
+{ 40 182 277 } with Global Support = 0.048035
+{ 40 182 280 } with Global Support = 0.030311
+{ 40 182 297 } with Global Support = 0.036219
+{ 40 182 308 } with Global Support = 0.031852
+{ 40 182 316 } with Global Support = 0.032366
+{ 40 182 330 } with Global Support = 0.032880
+{ 40 182 344 } with Global Support = 0.036219
+{ 40 196 213 } with Global Support = 0.042641
+{ 40 213 241 } with Global Support = 0.036219
+{ 40 213 277 } with Global Support = 0.040329
+{ 40 213 280 } with Global Support = 0.031595
+{ 40 241 277 } with Global Support = 0.033907
+{ 42 141 241 } with Global Support = 0.030054
+{ 42 141 277 } with Global Support = 0.031081
+{ 44 141 182 } with Global Support = 0.030311
+{ 44 141 277 } with Global Support = 0.035191
+{ 44 240 277 } with Global Support = 0.030311
+{ 69 141 277 } with Global Support = 0.031595
+{ 111 141 213 } with Global Support = 0.034164
+{ 111 141 241 } with Global Support = 0.040843
+{ 111 141 277 } with Global Support = 0.032109
+{ 111 196 213 } with Global Support = 0.033393
+{ 111 213 241 } with Global Support = 0.035962
+{ 111 241 277 } with Global Support = 0.033136
+{ 116 141 182 } with Global Support = 0.039558
+{ 116 141 196 } with Global Support = 0.033393
+{ 116 141 213 } with Global Support = 0.046751
+{ 116 141 240 } with Global Support = 0.031595
+{ 116 141 241 } with Global Support = 0.043411
+{ 116 141 277 } with Global Support = 0.045466
+{ 116 163 277 } with Global Support = 0.031081
+{ 116 165 277 } with Global Support = 0.030825
+{ 116 176 213 } with Global Support = 0.030825
+{ 116 176 277 } with Global Support = 0.031852
+{ 116 182 213 } with Global Support = 0.034678
+{ 116 182 277 } with Global Support = 0.030311
+{ 116 196 213 } with Global Support = 0.051117
+{ 116 196 241 } with Global Support = 0.034164
+{ 116 196 277 } with Global Support = 0.030311
+{ 116 206 277 } with Global Support = 0.030311
+{ 116 213 240 } with Global Support = 0.032623
+{ 116 213 241 } with Global Support = 0.040329
+{ 116 213 277 } with Global Support = 0.048806
+{ 116 240 277 } with Global Support = 0.040843
+{ 116 241 277 } with Global Support = 0.040843
+{ 116 277 311 } with Global Support = 0.030311
+{ 116 277 325 } with Global Support = 0.030311
+{ 120 141 277 } with Global Support = 0.032880
+{ 120 141 297 } with Global Support = 0.036733
+{ 120 206 297 } with Global Support = 0.031081
+{ 120 277 297 } with Global Support = 0.033393
+{ 131 141 241 } with Global Support = 0.030568
+{ 131 141 277 } with Global Support = 0.034164
+{ 131 196 213 } with Global Support = 0.031338
+{ 131 213 277 } with Global Support = 0.033907
+{ 131 241 277 } with Global Support = 0.032366
+{ 141 155 330 } with Global Support = 0.033393
+{ 141 176 213 } with Global Support = 0.031338
+{ 141 176 241 } with Global Support = 0.030568
+{ 141 176 277 } with Global Support = 0.030568
+{ 141 180 182 } with Global Support = 0.038531
+{ 141 182 213 } with Global Support = 0.043925
+{ 141 182 240 } with Global Support = 0.030568
+{ 141 182 241 } with Global Support = 0.040072
+{ 141 182 277 } with Global Support = 0.040586
+{ 141 182 297 } with Global Support = 0.031338
+{ 141 182 344 } with Global Support = 0.031595
+{ 141 196 213 } with Global Support = 0.064732
+{ 141 196 241 } with Global Support = 0.044182
+{ 141 196 277 } with Global Support = 0.039301
+{ 141 206 213 } with Global Support = 0.032880
+{ 141 206 241 } with Global Support = 0.032366
+{ 141 206 277 } with Global Support = 0.038531
+{ 141 213 240 } with Global Support = 0.036733
+{ 141 213 241 } with Global Support = 0.053686
+{ 141 213 257 } with Global Support = 0.031595
+{ 141 213 277 } with Global Support = 0.054970
+{ 141 213 280 } with Global Support = 0.033650
+{ 141 213 314 } with Global Support = 0.030568
+{ 141 213 316 } with Global Support = 0.031081
+{ 141 213 325 } with Global Support = 0.033136
+{ 141 240 241 } with Global Support = 0.037760
+{ 141 240 277 } with Global Support = 0.040843
+{ 141 241 277 } with Global Support = 0.057282
+{ 141 241 316 } with Global Support = 0.030825
+{ 141 241 325 } with Global Support = 0.034678
+{ 141 241 344 } with Global Support = 0.030568
+{ 141 277 297 } with Global Support = 0.033907
+{ 141 277 325 } with Global Support = 0.040586
+{ 155 182 330 } with Global Support = 0.031338
+{ 176 196 213 } with Global Support = 0.040329
+{ 176 213 241 } with Global Support = 0.031852
+{ 176 213 277 } with Global Support = 0.033650
+{ 182 196 213 } with Global Support = 0.036219
+{ 182 213 241 } with Global Support = 0.031338
+{ 182 213 277 } with Global Support = 0.033393
+{ 182 213 280 } with Global Support = 0.030311
+{ 182 241 277 } with Global Support = 0.030054
+{ 196 206 213 } with Global Support = 0.031338
+{ 196 213 240 } with Global Support = 0.036989
+{ 196 213 241 } with Global Support = 0.060108
+{ 196 213 257 } with Global Support = 0.038788
+{ 196 213 259 } with Global Support = 0.033650
+{ 196 213 277 } with Global Support = 0.053172
+{ 196 213 280 } with Global Support = 0.030054
+{ 196 213 293 } with Global Support = 0.031595
+{ 196 213 314 } with Global Support = 0.036219
+{ 196 213 316 } with Global Support = 0.030825
+{ 196 213 323 } with Global Support = 0.034678
+{ 196 213 325 } with Global Support = 0.035705
+{ 196 241 277 } with Global Support = 0.036219
+{ 206 213 277 } with Global Support = 0.038017
+{ 206 240 277 } with Global Support = 0.034421
+{ 213 240 241 } with Global Support = 0.031595
+{ 213 240 277 } with Global Support = 0.039044
+{ 213 241 257 } with Global Support = 0.032109
+{ 213 241 277 } with Global Support = 0.044439
+{ 213 257 277 } with Global Support = 0.031595
+{ 213 277 325 } with Global Support = 0.034164
+{ 240 241 277 } with Global Support = 0.036989
+{ 240 277 325 } with Global Support = 0.030825
+{ 241 277 325 } with Global Support = 0.034164
+{ 40 116 141 182 } with Global Support = 0.037246
+{ 40 116 182 213 } with Global Support = 0.034421
+{ 40 141 180 182 } with Global Support = 0.037246
+{ 40 141 182 213 } with Global Support = 0.042641
+{ 40 141 182 241 } with Global Support = 0.036219
+{ 40 141 182 277 } with Global Support = 0.036733
+{ 40 141 196 213 } with Global Support = 0.031081
+{ 40 155 182 330 } with Global Support = 0.030825
+{ 40 182 196 213 } with Global Support = 0.035705
+{ 40 182 213 241 } with Global Support = 0.030311
+{ 40 182 213 277 } with Global Support = 0.032366
+{ 116 141 196 213 } with Global Support = 0.032880
+{ 116 196 213 241 } with Global Support = 0.032880
+{ 141 196 213 241 } with Global Support = 0.043411
+{ 141 196 213 277 } with Global Support = 0.038017
+{ 141 213 241 277 } with Global Support = 0.033907
+{ 196 213 241 277 } with Global Support = 0.034934
+Current System Time = 1032040906
+*** Adding clusters to warehouse
+1121 clusters are constructed
+*** Constructing initial clusters
+*** Computing frequent one itemsets for initial clusters
+*** Constructing clusters based on scores
+*** Computing frequent one itemsets for clusters
+Current System Time = 1032040938
+*** Building the tree
+*** Recomputing the frequent one itemsets using tree children
+Current System Time = 1032040939
+*** Removing empty clusters
+0 internal empty clusters are pruned!
+264 empty clusters are pruned!
+*** Pruning children clusters based on inter-cluster similarity with parent
+224 children clusters are pruned!
+*** Pruning clusters based on inter-cluster similarity
+248 clusters at level 1 are merged with sibling!
+*** Over prune clusters to satisfy specified # of clusters
+76 clusters at level 1 are merged!
+Current System Time = 1032041066
+** Class: med **
+Cluster Label:
+deriv	1.000000
+addit	1.000000
+agreement	1.000000
+angl	1.000000
+approxim	1.000000
+attempt	1.000000
+chang	1.000000
+comparison	1.000000
+condit	1.000000
+control	1.000000
+correct	1.000000
+dimension	1.000000
+direct	1.000000
+discuss	1.000000
+effect	1.000000
+factor	1.000000
+flat	1.000000
+flow	1.000000
+frequenc	1.000000
+incompress	1.000000
+increas	1.000000
+influenc	1.000000
+mean	1.000000
+measur	1.000000
+natur	1.000000
+number	1.000000
+observ	1.000000
+paramet	1.000000
+plate	1.000000
+posit	1.000000
+produc	1.000000
+profil	1.000000
+reason	1.000000
+reduc	1.000000
+refer	1.000000
+result	1.000000
+reynold	1.000000
+set	1.000000
+test	1.000000
+theoret	1.000000
+theori	1.000000
+valu	1.000000
+variat	1.000000
+wing	1.000000
+zero	1.000000
+Cluster Frequent Items:
+present	0.263129
+result	0.311774
+studi	0.263129
+** Class: cran **
+Cluster Label:
+bodi	1.000000
+angl	1.000000
+approxim	1.000000
+attack	1.000000
+base	1.000000
+blunt	1.000000
+calcul	1.000000
+characterist	1.000000
+compar	1.000000
+condit	1.000000
+cone	1.000000
+determin	1.000000
+develop	1.000000
+distribut	1.000000
+effect	1.000000
+equat	1.000000
+experiment	1.000000
+field	1.000000
+flow	1.000000
+hyperson	1.000000
+mach	1.000000
+method	1.000000
+number	1.000000
+point	1.000000
+present	1.000000
+pressur	1.000000
+rang	1.000000
+ratio	1.000000
+result	1.000000
+shape	1.000000
+shock	1.000000
+solut	1.000000
+speed	1.000000
+stream	1.000000
+superson	1.000000
+surfac	1.000000
+theori	1.000000
+wave	1.000000
+Cluster Frequent Items:
+approxim	0.287864
+bodi	0.273821
+boundari	0.430291
+calcul	0.266800
+case	0.273821
+condit	0.270812
+distribut	0.303912
+effect	0.427282
+equat	0.259779
+experiment	0.255767
+flow	0.620863
+investig	0.285858
+layer	0.393180
+mach	0.362086
+method	0.348044
+number	0.498495
+present	0.360080
+pressur	0.453360
+result	0.499498
+solut	0.290873
+surfac	0.273821
+theori	0.311936
+veloc	0.254764
+** Class: cisi **
+Cluster Label: 
+materi	1.000000
+analysi	1.000000
+appli	1.000000
+avail	1.000000
+book	1.000000
+case	1.000000
+center	1.000000
+collect	1.000000
+commun	1.000000
+compar	1.000000
+consider	1.000000
+consist	1.000000
+contain	1.000000
+continu	1.000000
+cost	1.000000
+differ	1.000000
+discuss	1.000000
+effect	1.000000
+effici	1.000000
+essenti	1.000000
+establish	1.000000
+examin	1.000000
+exampl	1.000000
+form	1.000000
+group	1.000000
+growth	1.000000
+human	1.000000
+inform	1.000000
+institut	1.000000
+librari	1.000000
+main	1.000000
+major	1.000000
+mean	1.000000
+method	1.000000
+object	1.000000
+organ	1.000000
+origin	1.000000
+period	1.000000
+point	1.000000
+problem	1.000000
+public	1.000000
+ratio	1.000000
+reason	1.000000
+reduc	1.000000
+refer	1.000000
+research	1.000000
+respons	1.000000
+result	1.000000
+separ	1.000000
+servic	1.000000
+set	1.000000
+size	1.000000
+studi	1.000000
+survei	1.000000
+treatment	1.000000
+type	1.000000
+univers	1.000000
+work	1.000000
+year	1.000000
+Cluster Frequent Items:
+develop	0.256694
+inform	0.404432
+librari	0.405355
+research	0.253001
+studi	0.257618
+F-Measure = 0.723773
+Entropy (Flat) = 0.631603
+*** Writing XML file
+Output file: ..\classic3003025003_0.723773_0.631603.xml
+Current System Time = 1032041067
+Bye!

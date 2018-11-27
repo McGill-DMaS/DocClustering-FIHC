@@ -1,0 +1,1807 @@
+
+# of documents: 1504, min_sup = 0.060000
+
+Frequent one itemsets:
+(accord,0) (account,1) (action,2) (adjust,3) (agre,4) (agreem,5) (announc,6) (annual,7) (april,8) (assist,9) (averag,10) (balanc,11) (bank,12) (base,13) (budget,14) (bui,15) (busi,16) (canada,17) (capit,18) (central,19) (chang,20) (comment,21) (committ,22) (compar,23) (consid,24) (consum,25) (continu,26) (countri,27) (credit,28) (currenc,29) (current,30) (cut,31) (dai,32) (dealer,33) (debt,34) (decemb,35) (declin,36) (deficit,37) (demand,38) (depart,39) (develop,40) (discount,41) (dlr,42) (dollar,43) (domest,44) (drop,45) (earlier,46) (econom,47) (economi,48) (economist,49) (effect,50) (england,51) (estim,52) (european,53) (exchang,54) (expect,55) (export,56) (fall,57) (februari,58) (fed,59) (feder,60) (fell,61) (figur,62) (financ,63) (firm,64) (forecast,65) (foreign,66) (franc,67) (fund,68) (german,69) (germani,70) (govern,71) (gross,72) (grow,73) (growth,74) (help,75) (hold,76) (hous,77) (import,78) (improv,79) (includ,80) (increa,81) (index,82) (industri,83) (inflat,84) (institut,85) (intern,86) (interv,87) (invest,88) (issu,89) (januari,90) (japan,91) (lead,92) (lend,93) (level,94) (liquid,95) (loan,96) (major,97) (march,98) (mark,99) (market,100) (measur,101) (meet,102) (minist,103) (ministri,104) (mln,105) (monei,106) (monetari,107) (month,108) (nation,109) (offici,110) (oil,111) (pari,112) (payment,113) (pct,114) (period,115) (plan,116) (polici,117) (presid,118) (pressur,119) (previou,120) (price,121) (prime,122) (privat,123) (product,124) (provid,125) (quarter,126) (rang,127) (rate,128) (real,129) (record,130) (reduc,131) (reflect,132) (remain,133) (report,134) (requir,135) (reserv,136) (result,137) (revi,138) (rise,139) (rose,140) (sale,141) (season,142) (secretari,143) (sector,144) (secur,145) (servic,146) (set,147) (shortag,148) (sourc,149) (spokesman,150) (stabil,151) (start,152) (statem,153) (statist,154) (stg,155) (strong,156) (suppli,157) (support,158) (surplu,159) (talk,160) (target,161) (tarif,162) (tax,163) (term,164) (told,165) (total,166) (trad,167) (trade,168) (treasuri,169) (unit,170) (valu,171) (washington,172) (west,173) (world,174) (yen,175) (yesterdai,176) 
+********
+* FIHC *
+********
+Current System Time = 1033105743
+*** Computing global frequent itemsets using Apriori
+F1 size [177]
+F2 size [674]
+F3 size [271]
+F4 size [37]
+F5 size [7]
+F6 size [1]
+Global frequent itemsets
+{ 0 } with Global Support = 0.094415
+{ 1 } with Global Support = 0.115027
+{ 2 } with Global Support = 0.075798
+{ 3 } with Global Support = 0.114362
+{ 4 } with Global Support = 0.091090
+{ 5 } with Global Support = 0.168883
+{ 6 } with Global Support = 0.073138
+{ 7 } with Global Support = 0.065824
+{ 8 } with Global Support = 0.096410
+{ 9 } with Global Support = 0.065160
+{ 10 } with Global Support = 0.097739
+{ 11 } with Global Support = 0.093750
+{ 12 } with Global Support = 0.466755
+{ 13 } with Global Support = 0.079122
+{ 14 } with Global Support = 0.087766
+{ 15 } with Global Support = 0.077793
+{ 16 } with Global Support = 0.071809
+{ 17 } with Global Support = 0.077793
+{ 18 } with Global Support = 0.064495
+{ 19 } with Global Support = 0.182181
+{ 20 } with Global Support = 0.111702
+{ 21 } with Global Support = 0.071144
+{ 22 } with Global Support = 0.080452
+{ 23 } with Global Support = 0.173537
+{ 24 } with Global Support = 0.071809
+{ 25 } with Global Support = 0.064495
+{ 26 } with Global Support = 0.112367
+{ 27 } with Global Support = 0.191489
+{ 28 } with Global Support = 0.064495
+{ 29 } with Global Support = 0.190824
+{ 30 } with Global Support = 0.164229
+{ 31 } with Global Support = 0.170213
+{ 32 } with Global Support = 0.110372
+{ 33 } with Global Support = 0.102394
+{ 34 } with Global Support = 0.077793
+{ 35 } with Global Support = 0.103723
+{ 36 } with Global Support = 0.133644
+{ 37 } with Global Support = 0.158245
+{ 38 } with Global Support = 0.088431
+{ 39 } with Global Support = 0.061170
+{ 40 } with Global Support = 0.091090
+{ 41 } with Global Support = 0.069149
+{ 42 } with Global Support = 0.313830
+{ 43 } with Global Support = 0.223404
+{ 44 } with Global Support = 0.122340
+{ 45 } with Global Support = 0.088431
+{ 46 } with Global Support = 0.121011
+{ 47 } with Global Support = 0.196144
+{ 48 } with Global Support = 0.126330
+{ 49 } with Global Support = 0.082447
+{ 50 } with Global Support = 0.113697
+{ 51 } with Global Support = 0.094415
+{ 52 } with Global Support = 0.099734
+{ 53 } with Global Support = 0.075798
+{ 54 } with Global Support = 0.188830
+{ 55 } with Global Support = 0.190160
+{ 56 } with Global Support = 0.182181
+{ 57 } with Global Support = 0.204122
+{ 58 } with Global Support = 0.219415
+{ 59 } with Global Support = 0.105053
+{ 60 } with Global Support = 0.151596
+{ 61 } with Global Support = 0.159574
+{ 62 } with Global Support = 0.128989
+{ 63 } with Global Support = 0.177527
+{ 64 } with Global Support = 0.061835
+{ 65 } with Global Support = 0.113697
+{ 66 } with Global Support = 0.220080
+{ 67 } with Global Support = 0.086436
+{ 68 } with Global Support = 0.120346
+{ 69 } with Global Support = 0.067154
+{ 70 } with Global Support = 0.070479
+{ 71 } with Global Support = 0.228723
+{ 72 } with Global Support = 0.061835
+{ 73 } with Global Support = 0.068484
+{ 74 } with Global Support = 0.156250
+{ 75 } with Global Support = 0.121011
+{ 76 } with Global Support = 0.069814
+{ 77 } with Global Support = 0.090426
+{ 78 } with Global Support = 0.156250
+{ 79 } with Global Support = 0.061835
+{ 80 } with Global Support = 0.121676
+{ 81 } with Global Support = 0.200133
+{ 82 } with Global Support = 0.065160
+{ 83 } with Global Support = 0.187500
+{ 84 } with Global Support = 0.094415
+{ 85 } with Global Support = 0.064495
+{ 86 } with Global Support = 0.134973
+{ 87 } with Global Support = 0.067154
+{ 88 } with Global Support = 0.073138
+{ 89 } with Global Support = 0.099734
+{ 90 } with Global Support = 0.214761
+{ 91 } with Global Support = 0.230718
+{ 92 } with Global Support = 0.078457
+{ 93 } with Global Support = 0.061170
+{ 94 } with Global Support = 0.159574
+{ 95 } with Global Support = 0.064495
+{ 96 } with Global Support = 0.069149
+{ 97 } with Global Support = 0.164894
+{ 98 } with Global Support = 0.152926
+{ 99 } with Global Support = 0.084441
+{ 100 } with Global Support = 0.368351
+{ 101 } with Global Support = 0.100399
+{ 102 } with Global Support = 0.130984
+{ 103 } with Global Support = 0.137633
+{ 104 } with Global Support = 0.079787
+{ 105 } with Global Support = 0.279255
+{ 106 } with Global Support = 0.214761
+{ 107 } with Global Support = 0.101729
+{ 108 } with Global Support = 0.259973
+{ 109 } with Global Support = 0.214761
+{ 110 } with Global Support = 0.227394
+{ 111 } with Global Support = 0.065824
+{ 112 } with Global Support = 0.081782
+{ 113 } with Global Support = 0.068484
+{ 114 } with Global Support = 0.526596
+{ 115 } with Global Support = 0.087766
+{ 116 } with Global Support = 0.096410
+{ 117 } with Global Support = 0.130984
+{ 118 } with Global Support = 0.086436
+{ 119 } with Global Support = 0.071809
+{ 120 } with Global Support = 0.103059
+{ 121 } with Global Support = 0.162899
+{ 122 } with Global Support = 0.085771
+{ 123 } with Global Support = 0.064495
+{ 124 } with Global Support = 0.154255
+{ 125 } with Global Support = 0.071144
+{ 126 } with Global Support = 0.073138
+{ 127 } with Global Support = 0.069814
+{ 128 } with Global Support = 0.376330
+{ 129 } with Global Support = 0.063830
+{ 130 } with Global Support = 0.095080
+{ 131 } with Global Support = 0.095080
+{ 132 } with Global Support = 0.065824
+{ 133 } with Global Support = 0.115027
+{ 134 } with Global Support = 0.138298
+{ 135 } with Global Support = 0.065160
+{ 136 } with Global Support = 0.178191
+{ 137 } with Global Support = 0.064495
+{ 138 } with Global Support = 0.093085
+{ 139 } with Global Support = 0.253324
+{ 140 } with Global Support = 0.205452
+{ 141 } with Global Support = 0.061170
+{ 142 } with Global Support = 0.073803
+{ 143 } with Global Support = 0.070479
+{ 144 } with Global Support = 0.060505
+{ 145 } with Global Support = 0.095080
+{ 146 } with Global Support = 0.061835
+{ 147 } with Global Support = 0.128989
+{ 148 } with Global Support = 0.060505
+{ 149 } with Global Support = 0.071144
+{ 150 } with Global Support = 0.067819
+{ 151 } with Global Support = 0.060505
+{ 152 } with Global Support = 0.063830
+{ 153 } with Global Support = 0.081117
+{ 154 } with Global Support = 0.099734
+{ 155 } with Global Support = 0.091090
+{ 156 } with Global Support = 0.063165
+{ 157 } with Global Support = 0.095080
+{ 158 } with Global Support = 0.069814
+{ 159 } with Global Support = 0.131649
+{ 160 } with Global Support = 0.075798
+{ 161 } with Global Support = 0.091755
+{ 162 } with Global Support = 0.069814
+{ 163 } with Global Support = 0.064495
+{ 164 } with Global Support = 0.140293
+{ 165 } with Global Support = 0.194814
+{ 166 } with Global Support = 0.135638
+{ 167 } with Global Support = 0.124335
+{ 168 } with Global Support = 0.322473
+{ 169 } with Global Support = 0.135638
+{ 170 } with Global Support = 0.127660
+{ 171 } with Global Support = 0.063165
+{ 172 } with Global Support = 0.067154
+{ 173 } with Global Support = 0.097074
+{ 174 } with Global Support = 0.100399
+{ 175 } with Global Support = 0.111037
+{ 176 } with Global Support = 0.091090
+{ 1 12 } with Global Support = 0.063165
+{ 1 30 } with Global Support = 0.061835
+{ 1 114 } with Global Support = 0.064495
+{ 3 114 } with Global Support = 0.076463
+{ 3 142 } with Global Support = 0.065824
+{ 5 12 } with Global Support = 0.069149
+{ 5 27 } with Global Support = 0.081117
+{ 5 42 } with Global Support = 0.075133
+{ 5 71 } with Global Support = 0.073803
+{ 5 91 } with Global Support = 0.077793
+{ 5 100 } with Global Support = 0.105053
+{ 5 102 } with Global Support = 0.061835
+{ 5 114 } with Global Support = 0.070479
+{ 5 128 } with Global Support = 0.067819
+{ 5 165 } with Global Support = 0.069814
+{ 5 168 } with Global Support = 0.103723
+{ 9 12 } with Global Support = 0.063830
+{ 10 114 } with Global Support = 0.084441
+{ 12 19 } with Global Support = 0.164894
+{ 12 20 } with Global Support = 0.066489
+{ 12 23 } with Global Support = 0.087101
+{ 12 26 } with Global Support = 0.060505
+{ 12 27 } with Global Support = 0.081117
+{ 12 29 } with Global Support = 0.122340
+{ 12 30 } with Global Support = 0.084441
+{ 12 31 } with Global Support = 0.104388
+{ 12 32 } with Global Support = 0.068484
+{ 12 33 } with Global Support = 0.087101
+{ 12 36 } with Global Support = 0.070479
+{ 12 37 } with Global Support = 0.074468
+{ 12 42 } with Global Support = 0.140293
+{ 12 43 } with Global Support = 0.141622
+{ 12 46 } with Global Support = 0.067819
+{ 12 47 } with Global Support = 0.093085
+{ 12 48 } with Global Support = 0.066489
+{ 12 50 } with Global Support = 0.080452
+{ 12 51 } with Global Support = 0.094415
+{ 12 52 } with Global Support = 0.071144
+{ 12 54 } with Global Support = 0.119681
+{ 12 55 } with Global Support = 0.103059
+{ 12 56 } with Global Support = 0.061835
+{ 12 57 } with Global Support = 0.094415
+{ 12 58 } with Global Support = 0.093750
+{ 12 60 } with Global Support = 0.079787
+{ 12 61 } with Global Support = 0.068484
+{ 12 63 } with Global Support = 0.093750
+{ 12 65 } with Global Support = 0.068484
+{ 12 66 } with Global Support = 0.125000
+{ 12 68 } with Global Support = 0.083112
+{ 12 71 } with Global Support = 0.109707
+{ 12 74 } with Global Support = 0.084441
+{ 12 75 } with Global Support = 0.078457
+{ 12 80 } with Global Support = 0.063830
+{ 12 81 } with Global Support = 0.093085
+{ 12 83 } with Global Support = 0.064495
+{ 12 86 } with Global Support = 0.064495
+{ 12 90 } with Global Support = 0.079122
+{ 12 91 } with Global Support = 0.108378
+{ 12 94 } with Global Support = 0.075798
+{ 12 95 } with Global Support = 0.062500
+{ 12 97 } with Global Support = 0.095080
+{ 12 98 } with Global Support = 0.093085
+{ 12 100 } with Global Support = 0.245346
+{ 12 102 } with Global Support = 0.066489
+{ 12 105 } with Global Support = 0.171543
+{ 12 106 } with Global Support = 0.182846
+{ 12 107 } with Global Support = 0.076463
+{ 12 108 } with Global Support = 0.123005
+{ 12 109 } with Global Support = 0.102394
+{ 12 110 } with Global Support = 0.099734
+{ 12 114 } with Global Support = 0.270612
+{ 12 117 } with Global Support = 0.073803
+{ 12 128 } with Global Support = 0.245346
+{ 12 136 } with Global Support = 0.119681
+{ 12 139 } with Global Support = 0.116356
+{ 12 140 } with Global Support = 0.075133
+{ 12 147 } with Global Support = 0.066489
+{ 12 155 } with Global Support = 0.084441
+{ 12 157 } with Global Support = 0.060505
+{ 12 161 } with Global Support = 0.063165
+{ 12 164 } with Global Support = 0.093750
+{ 12 165 } with Global Support = 0.077128
+{ 12 166 } with Global Support = 0.081782
+{ 12 167 } with Global Support = 0.063165
+{ 12 168 } with Global Support = 0.102394
+{ 12 169 } with Global Support = 0.083777
+{ 12 175 } with Global Support = 0.071809
+{ 13 114 } with Global Support = 0.071809
+{ 19 29 } with Global Support = 0.064495
+{ 19 43 } with Global Support = 0.075798
+{ 19 54 } with Global Support = 0.065160
+{ 19 100 } with Global Support = 0.107713
+{ 19 105 } with Global Support = 0.068484
+{ 19 106 } with Global Support = 0.078457
+{ 19 108 } with Global Support = 0.066489
+{ 19 114 } with Global Support = 0.116356
+{ 19 128 } with Global Support = 0.102394
+{ 20 100 } with Global Support = 0.065824
+{ 20 114 } with Global Support = 0.075133
+{ 20 128 } with Global Support = 0.069814
+{ 23 58 } with Global Support = 0.071809
+{ 23 90 } with Global Support = 0.077128
+{ 23 100 } with Global Support = 0.065824
+{ 23 105 } with Global Support = 0.071809
+{ 23 108 } with Global Support = 0.067819
+{ 23 114 } with Global Support = 0.129654
+{ 23 128 } with Global Support = 0.060505
+{ 23 139 } with Global Support = 0.064495
+{ 23 140 } with Global Support = 0.073803
+{ 23 166 } with Global Support = 0.061170
+{ 26 100 } with Global Support = 0.066489
+{ 26 114 } with Global Support = 0.075133
+{ 26 128 } with Global Support = 0.067154
+{ 26 168 } with Global Support = 0.061170
+{ 27 29 } with Global Support = 0.063165
+{ 27 30 } with Global Support = 0.060505
+{ 27 37 } with Global Support = 0.060505
+{ 27 42 } with Global Support = 0.083112
+{ 27 43 } with Global Support = 0.061835
+{ 27 47 } with Global Support = 0.093750
+{ 27 54 } with Global Support = 0.063830
+{ 27 55 } with Global Support = 0.064495
+{ 27 56 } with Global Support = 0.083777
+{ 27 63 } with Global Support = 0.069149
+{ 27 66 } with Global Support = 0.092420
+{ 27 71 } with Global Support = 0.079122
+{ 27 78 } with Global Support = 0.068484
+{ 27 83 } with Global Support = 0.080452
+{ 27 86 } with Global Support = 0.073803
+{ 27 91 } with Global Support = 0.088431
+{ 27 97 } with Global Support = 0.069149
+{ 27 100 } with Global Support = 0.096410
+{ 27 102 } with Global Support = 0.068484
+{ 27 103 } with Global Support = 0.075133
+{ 27 108 } with Global Support = 0.067819
+{ 27 109 } with Global Support = 0.081117
+{ 27 110 } with Global Support = 0.069814
+{ 27 114 } with Global Support = 0.086436
+{ 27 117 } with Global Support = 0.067154
+{ 27 124 } with Global Support = 0.063165
+{ 27 128 } with Global Support = 0.075798
+{ 27 165 } with Global Support = 0.091755
+{ 27 168 } with Global Support = 0.139628
+{ 27 170 } with Global Support = 0.065160
+{ 29 42 } with Global Support = 0.074468
+{ 29 43 } with Global Support = 0.116356
+{ 29 47 } with Global Support = 0.066489
+{ 29 54 } with Global Support = 0.106383
+{ 29 55 } with Global Support = 0.067154
+{ 29 63 } with Global Support = 0.073803
+{ 29 66 } with Global Support = 0.097739
+{ 29 71 } with Global Support = 0.061835
+{ 29 91 } with Global Support = 0.071809
+{ 29 97 } with Global Support = 0.070479
+{ 29 100 } with Global Support = 0.101729
+{ 29 108 } with Global Support = 0.079787
+{ 29 109 } with Global Support = 0.077793
+{ 29 114 } with Global Support = 0.085771
+{ 29 128 } with Global Support = 0.107048
+{ 29 139 } with Global Support = 0.065160
+{ 29 165 } with Global Support = 0.061835
+{ 29 168 } with Global Support = 0.079787
+{ 29 169 } with Global Support = 0.063165
+{ 30 43 } with Global Support = 0.069814
+{ 30 47 } with Global Support = 0.061170
+{ 30 54 } with Global Support = 0.061835
+{ 30 55 } with Global Support = 0.062500
+{ 30 100 } with Global Support = 0.075133
+{ 30 108 } with Global Support = 0.073803
+{ 30 114 } with Global Support = 0.097739
+{ 30 128 } with Global Support = 0.096410
+{ 30 168 } with Global Support = 0.083777
+{ 31 42 } with Global Support = 0.060505
+{ 31 47 } with Global Support = 0.066489
+{ 31 66 } with Global Support = 0.071809
+{ 31 71 } with Global Support = 0.071144
+{ 31 91 } with Global Support = 0.074468
+{ 31 100 } with Global Support = 0.103059
+{ 31 108 } with Global Support = 0.073138
+{ 31 109 } with Global Support = 0.062500
+{ 31 110 } with Global Support = 0.065160
+{ 31 114 } with Global Support = 0.115027
+{ 31 128 } with Global Support = 0.106383
+{ 31 165 } with Global Support = 0.061170
+{ 31 168 } with Global Support = 0.089096
+{ 32 114 } with Global Support = 0.065824
+{ 32 128 } with Global Support = 0.060505
+{ 33 100 } with Global Support = 0.070479
+{ 35 90 } with Global Support = 0.067154
+{ 35 114 } with Global Support = 0.087101
+{ 36 43 } with Global Support = 0.069814
+{ 36 100 } with Global Support = 0.069149
+{ 36 108 } with Global Support = 0.073803
+{ 36 114 } with Global Support = 0.083112
+{ 36 128 } with Global Support = 0.068484
+{ 37 42 } with Global Support = 0.077793
+{ 37 56 } with Global Support = 0.062500
+{ 37 78 } with Global Support = 0.062500
+{ 37 100 } with Global Support = 0.066489
+{ 37 105 } with Global Support = 0.067154
+{ 37 114 } with Global Support = 0.065824
+{ 37 159 } with Global Support = 0.063165
+{ 37 168 } with Global Support = 0.114362
+{ 40 168 } with Global Support = 0.060505
+{ 42 43 } with Global Support = 0.095080
+{ 42 47 } with Global Support = 0.069814
+{ 42 54 } with Global Support = 0.071809
+{ 42 55 } with Global Support = 0.078457
+{ 42 56 } with Global Support = 0.091090
+{ 42 57 } with Global Support = 0.077128
+{ 42 58 } with Global Support = 0.062500
+{ 42 59 } with Global Support = 0.073803
+{ 42 60 } with Global Support = 0.066489
+{ 42 61 } with Global Support = 0.060505
+{ 42 63 } with Global Support = 0.072473
+{ 42 66 } with Global Support = 0.115027
+{ 42 71 } with Global Support = 0.107713
+{ 42 78 } with Global Support = 0.089096
+{ 42 80 } with Global Support = 0.060505
+{ 42 81 } with Global Support = 0.073138
+{ 42 83 } with Global Support = 0.062500
+{ 42 91 } with Global Support = 0.097739
+{ 42 94 } with Global Support = 0.064495
+{ 42 97 } with Global Support = 0.065824
+{ 42 98 } with Global Support = 0.065824
+{ 42 100 } with Global Support = 0.123670
+{ 42 105 } with Global Support = 0.136303
+{ 42 108 } with Global Support = 0.093750
+{ 42 109 } with Global Support = 0.067154
+{ 42 110 } with Global Support = 0.083112
+{ 42 114 } with Global Support = 0.139628
+{ 42 124 } with Global Support = 0.061835
+{ 42 128 } with Global Support = 0.087766
+{ 42 134 } with Global Support = 0.061170
+{ 42 136 } with Global Support = 0.093750
+{ 42 139 } with Global Support = 0.078457
+{ 42 140 } with Global Support = 0.073803
+{ 42 159 } with Global Support = 0.071144
+{ 42 165 } with Global Support = 0.073803
+{ 42 167 } with Global Support = 0.066489
+{ 42 168 } with Global Support = 0.147606
+{ 43 47 } with Global Support = 0.085771
+{ 43 54 } with Global Support = 0.108378
+{ 43 55 } with Global Support = 0.071144
+{ 43 57 } with Global Support = 0.075133
+{ 43 63 } with Global Support = 0.083777
+{ 43 66 } with Global Support = 0.089096
+{ 43 71 } with Global Support = 0.061835
+{ 43 83 } with Global Support = 0.063830
+{ 43 91 } with Global Support = 0.109707
+{ 43 94 } with Global Support = 0.065160
+{ 43 97 } with Global Support = 0.073138
+{ 43 100 } with Global Support = 0.117686
+{ 43 108 } with Global Support = 0.084441
+{ 43 109 } with Global Support = 0.085106
+{ 43 110 } with Global Support = 0.063830
+{ 43 114 } with Global Support = 0.098404
+{ 43 128 } with Global Support = 0.123005
+{ 43 139 } with Global Support = 0.068484
+{ 43 165 } with Global Support = 0.073803
+{ 43 168 } with Global Support = 0.097074
+{ 43 175 } with Global Support = 0.089761
+{ 44 47 } with Global Support = 0.061835
+{ 44 71 } with Global Support = 0.061170
+{ 44 100 } with Global Support = 0.062500
+{ 44 114 } with Global Support = 0.085106
+{ 44 124 } with Global Support = 0.064495
+{ 44 128 } with Global Support = 0.061835
+{ 44 168 } with Global Support = 0.073803
+{ 45 114 } with Global Support = 0.061835
+{ 46 114 } with Global Support = 0.084441
+{ 47 48 } with Global Support = 0.084441
+{ 47 54 } with Global Support = 0.070479
+{ 47 55 } with Global Support = 0.076463
+{ 47 56 } with Global Support = 0.081117
+{ 47 57 } with Global Support = 0.060505
+{ 47 63 } with Global Support = 0.070479
+{ 47 66 } with Global Support = 0.077793
+{ 47 71 } with Global Support = 0.082447
+{ 47 74 } with Global Support = 0.088431
+{ 47 78 } with Global Support = 0.062500
+{ 47 81 } with Global Support = 0.071809
+{ 47 83 } with Global Support = 0.081117
+{ 47 86 } with Global Support = 0.067154
+{ 47 91 } with Global Support = 0.083112
+{ 47 94 } with Global Support = 0.062500
+{ 47 97 } with Global Support = 0.063830
+{ 47 100 } with Global Support = 0.099069
+{ 47 102 } with Global Support = 0.063830
+{ 47 108 } with Global Support = 0.085771
+{ 47 109 } with Global Support = 0.084441
+{ 47 110 } with Global Support = 0.069149
+{ 47 114 } with Global Support = 0.115027
+{ 47 117 } with Global Support = 0.073803
+{ 47 124 } with Global Support = 0.077793
+{ 47 128 } with Global Support = 0.101064
+{ 47 139 } with Global Support = 0.073803
+{ 47 165 } with Global Support = 0.081782
+{ 47 168 } with Global Support = 0.118351
+{ 48 71 } with Global Support = 0.065160
+{ 48 74 } with Global Support = 0.067819
+{ 48 100 } with Global Support = 0.068484
+{ 48 114 } with Global Support = 0.081782
+{ 48 128 } with Global Support = 0.076463
+{ 48 168 } with Global Support = 0.071144
+{ 49 114 } with Global Support = 0.064495
+{ 50 114 } with Global Support = 0.080452
+{ 50 128 } with Global Support = 0.083777
+{ 51 100 } with Global Support = 0.086436
+{ 51 105 } with Global Support = 0.073138
+{ 51 106 } with Global Support = 0.079122
+{ 51 155 } with Global Support = 0.076463
+{ 52 100 } with Global Support = 0.065824
+{ 52 114 } with Global Support = 0.069814
+{ 54 55 } with Global Support = 0.060505
+{ 54 63 } with Global Support = 0.075798
+{ 54 66 } with Global Support = 0.117021
+{ 54 71 } with Global Support = 0.064495
+{ 54 91 } with Global Support = 0.075798
+{ 54 97 } with Global Support = 0.065160
+{ 54 100 } with Global Support = 0.105718
+{ 54 108 } with Global Support = 0.075798
+{ 54 109 } with Global Support = 0.075798
+{ 54 110 } with Global Support = 0.062500
+{ 54 114 } with Global Support = 0.087101
+{ 54 128 } with Global Support = 0.138298
+{ 54 136 } with Global Support = 0.061170
+{ 54 165 } with Global Support = 0.071809
+{ 54 168 } with Global Support = 0.085771
+{ 55 63 } with Global Support = 0.066489
+{ 55 66 } with Global Support = 0.069149
+{ 55 71 } with Global Support = 0.089761
+{ 55 74 } with Global Support = 0.061170
+{ 55 81 } with Global Support = 0.067154
+{ 55 83 } with Global Support = 0.061170
+{ 55 91 } with Global Support = 0.068484
+{ 55 100 } with Global Support = 0.116356
+{ 55 108 } with Global Support = 0.083112
+{ 55 110 } with Global Support = 0.067154
+{ 55 114 } with Global Support = 0.128324
+{ 55 128 } with Global Support = 0.111702
+{ 55 133 } with Global Support = 0.063830
+{ 55 139 } with Global Support = 0.075798
+{ 55 168 } with Global Support = 0.092420
+{ 56 66 } with Global Support = 0.075133
+{ 56 71 } with Global Support = 0.067819
+{ 56 74 } with Global Support = 0.060505
+{ 56 78 } with Global Support = 0.103723
+{ 56 81 } with Global Support = 0.063830
+{ 56 83 } with Global Support = 0.068484
+{ 56 91 } with Global Support = 0.062500
+{ 56 100 } with Global Support = 0.072473
+{ 56 105 } with Global Support = 0.061835
+{ 56 108 } with Global Support = 0.070479
+{ 56 109 } with Global Support = 0.061835
+{ 56 110 } with Global Support = 0.074468
+{ 56 114 } with Global Support = 0.100399
+{ 56 124 } with Global Support = 0.069149
+{ 56 139 } with Global Support = 0.061170
+{ 56 159 } with Global Support = 0.063165
+{ 56 165 } with Global Support = 0.063165
+{ 56 168 } with Global Support = 0.140293
+{ 57 58 } with Global Support = 0.073138
+{ 57 61 } with Global Support = 0.080452
+{ 57 81 } with Global Support = 0.060505
+{ 57 90 } with Global Support = 0.076463
+{ 57 100 } with Global Support = 0.073803
+{ 57 105 } with Global Support = 0.063165
+{ 57 108 } with Global Support = 0.087101
+{ 57 114 } with Global Support = 0.134309
+{ 57 121 } with Global Support = 0.064495
+{ 57 128 } with Global Support = 0.087101
+{ 57 139 } with Global Support = 0.083112
+{ 57 140 } with Global Support = 0.062500
+{ 57 168 } with Global Support = 0.069149
+{ 58 61 } with Global Support = 0.074468
+{ 58 62 } with Global Support = 0.061835
+{ 58 81 } with Global Support = 0.073803
+{ 58 90 } with Global Support = 0.135638
+{ 58 94 } with Global Support = 0.060505
+{ 58 100 } with Global Support = 0.069814
+{ 58 105 } with Global Support = 0.065824
+{ 58 108 } with Global Support = 0.111702
+{ 58 114 } with Global Support = 0.156915
+{ 58 121 } with Global Support = 0.066489
+{ 58 128 } with Global Support = 0.097074
+{ 58 139 } with Global Support = 0.105718
+{ 58 140 } with Global Support = 0.107048
+{ 58 168 } with Global Support = 0.067154
+{ 59 60 } with Global Support = 0.068484
+{ 59 136 } with Global Support = 0.069814
+{ 60 100 } with Global Support = 0.075133
+{ 60 114 } with Global Support = 0.093750
+{ 60 128 } with Global Support = 0.071809
+{ 60 136 } with Global Support = 0.105053
+{ 61 90 } with Global Support = 0.082447
+{ 61 108 } with Global Support = 0.065824
+{ 61 114 } with Global Support = 0.105053
+{ 61 139 } with Global Support = 0.065160
+{ 61 140 } with Global Support = 0.080452
+{ 62 90 } with Global Support = 0.070479
+{ 62 108 } with Global Support = 0.063165
+{ 62 114 } with Global Support = 0.087766
+{ 63 66 } with Global Support = 0.075133
+{ 63 71 } with Global Support = 0.073138
+{ 63 91 } with Global Support = 0.077793
+{ 63 100 } with Global Support = 0.096410
+{ 63 103 } with Global Support = 0.077793
+{ 63 108 } with Global Support = 0.084441
+{ 63 109 } with Global Support = 0.076463
+{ 63 114 } with Global Support = 0.100399
+{ 63 128 } with Global Support = 0.100399
+{ 63 165 } with Global Support = 0.064495
+{ 63 168 } with Global Support = 0.083112
+{ 65 100 } with Global Support = 0.067819
+{ 65 114 } with Global Support = 0.071144
+{ 66 71 } with Global Support = 0.092420
+{ 66 78 } with Global Support = 0.073138
+{ 66 81 } with Global Support = 0.065824
+{ 66 83 } with Global Support = 0.069149
+{ 66 86 } with Global Support = 0.065160
+{ 66 91 } with Global Support = 0.089096
+{ 66 97 } with Global Support = 0.070479
+{ 66 100 } with Global Support = 0.119681
+{ 66 105 } with Global Support = 0.063165
+{ 66 108 } with Global Support = 0.088431
+{ 66 109 } with Global Support = 0.071144
+{ 66 110 } with Global Support = 0.080452
+{ 66 114 } with Global Support = 0.107048
+{ 66 128 } with Global Support = 0.095080
+{ 66 136 } with Global Support = 0.070479
+{ 66 139 } with Global Support = 0.065160
+{ 66 159 } with Global Support = 0.061835
+{ 66 165 } with Global Support = 0.079787
+{ 66 168 } with Global Support = 0.123005
+{ 68 71 } with Global Support = 0.066489
+{ 68 100 } with Global Support = 0.086436
+{ 68 114 } with Global Support = 0.089096
+{ 68 128 } with Global Support = 0.065824
+{ 68 136 } with Global Support = 0.061170
+{ 70 173 } with Global Support = 0.067819
+{ 71 74 } with Global Support = 0.065824
+{ 71 78 } with Global Support = 0.063830
+{ 71 81 } with Global Support = 0.076463
+{ 71 83 } with Global Support = 0.065160
+{ 71 91 } with Global Support = 0.076463
+{ 71 100 } with Global Support = 0.122340
+{ 71 103 } with Global Support = 0.065160
+{ 71 105 } with Global Support = 0.060505
+{ 71 108 } with Global Support = 0.085106
+{ 71 109 } with Global Support = 0.071144
+{ 71 110 } with Global Support = 0.084441
+{ 71 114 } with Global Support = 0.152261
+{ 71 128 } with Global Support = 0.095080
+{ 71 136 } with Global Support = 0.063165
+{ 71 139 } with Global Support = 0.074468
+{ 71 145 } with Global Support = 0.060505
+{ 71 165 } with Global Support = 0.068484
+{ 71 168 } with Global Support = 0.105718
+{ 74 81 } with Global Support = 0.076463
+{ 74 83 } with Global Support = 0.062500
+{ 74 100 } with Global Support = 0.063830
+{ 74 108 } with Global Support = 0.073803
+{ 74 109 } with Global Support = 0.062500
+{ 74 114 } with Global Support = 0.122340
+{ 74 124 } with Global Support = 0.065160
+{ 74 128 } with Global Support = 0.090426
+{ 74 139 } with Global Support = 0.073803
+{ 74 168 } with Global Support = 0.071144
+{ 75 100 } with Global Support = 0.081117
+{ 75 114 } with Global Support = 0.079787
+{ 78 91 } with Global Support = 0.063165
+{ 78 100 } with Global Support = 0.067819
+{ 78 108 } with Global Support = 0.061170
+{ 78 110 } with Global Support = 0.060505
+{ 78 114 } with Global Support = 0.073138
+{ 78 159 } with Global Support = 0.072473
+{ 78 165 } with Global Support = 0.064495
+{ 78 168 } with Global Support = 0.130319
+{ 80 168 } with Global Support = 0.062500
+{ 81 83 } with Global Support = 0.065160
+{ 81 90 } with Global Support = 0.070479
+{ 81 100 } with Global Support = 0.080452
+{ 81 108 } with Global Support = 0.094415
+{ 81 109 } with Global Support = 0.061835
+{ 81 110 } with Global Support = 0.060505
+{ 81 114 } with Global Support = 0.148936
+{ 81 121 } with Global Support = 0.070479
+{ 81 124 } with Global Support = 0.065160
+{ 81 128 } with Global Support = 0.091755
+{ 81 139 } with Global Support = 0.104388
+{ 81 140 } with Global Support = 0.087766
+{ 81 168 } with Global Support = 0.083112
+{ 82 114 } with Global Support = 0.060505
+{ 83 91 } with Global Support = 0.087101
+{ 83 94 } with Global Support = 0.060505
+{ 83 97 } with Global Support = 0.061835
+{ 83 100 } with Global Support = 0.090426
+{ 83 108 } with Global Support = 0.083112
+{ 83 109 } with Global Support = 0.086436
+{ 83 110 } with Global Support = 0.071144
+{ 83 114 } with Global Support = 0.096410
+{ 83 124 } with Global Support = 0.079122
+{ 83 128 } with Global Support = 0.081782
+{ 83 139 } with Global Support = 0.065160
+{ 83 165 } with Global Support = 0.071144
+{ 83 168 } with Global Support = 0.112367
+{ 84 114 } with Global Support = 0.081117
+{ 84 128 } with Global Support = 0.067154
+{ 86 91 } with Global Support = 0.066489
+{ 86 100 } with Global Support = 0.075798
+{ 86 114 } with Global Support = 0.063830
+{ 86 128 } with Global Support = 0.067819
+{ 86 168 } with Global Support = 0.096410
+{ 90 108 } with Global Support = 0.106383
+{ 90 114 } with Global Support = 0.158910
+{ 90 121 } with Global Support = 0.061835
+{ 90 128 } with Global Support = 0.081117
+{ 90 139 } with Global Support = 0.105053
+{ 90 140 } with Global Support = 0.109707
+{ 90 154 } with Global Support = 0.063830
+{ 90 168 } with Global Support = 0.067819
+{ 91 94 } with Global Support = 0.062500
+{ 91 97 } with Global Support = 0.078457
+{ 91 100 } with Global Support = 0.126995
+{ 91 102 } with Global Support = 0.061835
+{ 91 103 } with Global Support = 0.068484
+{ 91 108 } with Global Support = 0.080452
+{ 91 109 } with Global Support = 0.083112
+{ 91 110 } with Global Support = 0.087766
+{ 91 114 } with Global Support = 0.082447
+{ 91 128 } with Global Support = 0.091090
+{ 91 159 } with Global Support = 0.060505
+{ 91 165 } with Global Support = 0.090426
+{ 91 168 } with Global Support = 0.136968
+{ 91 170 } with Global Support = 0.071809
+{ 91 175 } with Global Support = 0.092420
+{ 94 100 } with Global Support = 0.082447
+{ 94 108 } with Global Support = 0.079787
+{ 94 114 } with Global Support = 0.096410
+{ 94 128 } with Global Support = 0.095745
+{ 94 139 } with Global Support = 0.063165
+{ 94 168 } with Global Support = 0.067154
+{ 97 100 } with Global Support = 0.089096
+{ 97 108 } with Global Support = 0.067154
+{ 97 109 } with Global Support = 0.084441
+{ 97 114 } with Global Support = 0.074468
+{ 97 128 } with Global Support = 0.094415
+{ 97 168 } with Global Support = 0.084441
+{ 98 100 } with Global Support = 0.068484
+{ 98 105 } with Global Support = 0.062500
+{ 98 114 } with Global Support = 0.093750
+{ 98 128 } with Global Support = 0.074468
+{ 100 102 } with Global Support = 0.072473
+{ 100 105 } with Global Support = 0.131649
+{ 100 106 } with Global Support = 0.154920
+{ 100 107 } with Global Support = 0.061170
+{ 100 108 } with Global Support = 0.113032
+{ 100 109 } with Global Support = 0.095080
+{ 100 110 } with Global Support = 0.095745
+{ 100 114 } with Global Support = 0.203457
+{ 100 117 } with Global Support = 0.086436
+{ 100 121 } with Global Support = 0.069149
+{ 100 124 } with Global Support = 0.060505
+{ 100 128 } with Global Support = 0.174202
+{ 100 133 } with Global Support = 0.070479
+{ 100 136 } with Global Support = 0.093085
+{ 100 139 } with Global Support = 0.088431
+{ 100 145 } with Global Support = 0.070479
+{ 100 147 } with Global Support = 0.073803
+{ 100 155 } with Global Support = 0.078457
+{ 100 161 } with Global Support = 0.061170
+{ 100 164 } with Global Support = 0.068484
+{ 100 165 } with Global Support = 0.085771
+{ 100 167 } with Global Support = 0.088431
+{ 100 168 } with Global Support = 0.134973
+{ 100 169 } with Global Support = 0.083112
+{ 100 170 } with Global Support = 0.072473
+{ 100 176 } with Global Support = 0.061170
+{ 102 103 } with Global Support = 0.064495
+{ 102 128 } with Global Support = 0.067819
+{ 102 168 } with Global Support = 0.079787
+{ 103 108 } with Global Support = 0.064495
+{ 103 109 } with Global Support = 0.061170
+{ 103 165 } with Global Support = 0.077793
+{ 103 168 } with Global Support = 0.091755
+{ 105 106 } with Global Support = 0.109707
+{ 105 108 } with Global Support = 0.070479
+{ 105 110 } with Global Support = 0.074468
+{ 105 114 } with Global Support = 0.122340
+{ 105 128 } with Global Support = 0.072473
+{ 105 139 } with Global Support = 0.072473
+{ 105 140 } with Global Support = 0.072473
+{ 105 155 } with Global Support = 0.079122
+{ 105 166 } with Global Support = 0.081782
+{ 105 168 } with Global Support = 0.086436
+{ 106 114 } with Global Support = 0.143617
+{ 106 128 } with Global Support = 0.104388
+{ 106 139 } with Global Support = 0.071144
+{ 106 155 } with Global Support = 0.077128
+{ 106 157 } with Global Support = 0.067819
+{ 107 114 } with Global Support = 0.060505
+{ 107 128 } with Global Support = 0.073138
+{ 108 109 } with Global Support = 0.080452
+{ 108 110 } with Global Support = 0.073803
+{ 108 114 } with Global Support = 0.173537
+{ 108 121 } with Global Support = 0.075133
+{ 108 124 } with Global Support = 0.066489
+{ 108 128 } with Global Support = 0.127660
+{ 108 139 } with Global Support = 0.112367
+{ 108 140 } with Global Support = 0.089096
+{ 108 164 } with Global Support = 0.063830
+{ 108 165 } with Global Support = 0.073138
+{ 108 168 } with Global Support = 0.109707
+{ 109 110 } with Global Support = 0.063165
+{ 109 114 } with Global Support = 0.107713
+{ 109 128 } with Global Support = 0.109707
+{ 109 139 } with Global Support = 0.069814
+{ 109 165 } with Global Support = 0.077128
+{ 109 168 } with Global Support = 0.099069
+{ 110 114 } with Global Support = 0.115027
+{ 110 128 } with Global Support = 0.075133
+{ 110 139 } with Global Support = 0.069149
+{ 110 165 } with Global Support = 0.069814
+{ 110 168 } with Global Support = 0.117686
+{ 114 115 } with Global Support = 0.060505
+{ 114 117 } with Global Support = 0.073138
+{ 114 120 } with Global Support = 0.071144
+{ 114 121 } with Global Support = 0.128324
+{ 114 124 } with Global Support = 0.107713
+{ 114 128 } with Global Support = 0.277926
+{ 114 133 } with Global Support = 0.071809
+{ 114 134 } with Global Support = 0.070479
+{ 114 136 } with Global Support = 0.096410
+{ 114 138 } with Global Support = 0.064495
+{ 114 139 } with Global Support = 0.178856
+{ 114 140 } with Global Support = 0.149601
+{ 114 145 } with Global Support = 0.073803
+{ 114 147 } with Global Support = 0.072473
+{ 114 154 } with Global Support = 0.082447
+{ 114 157 } with Global Support = 0.073803
+{ 114 164 } with Global Support = 0.096410
+{ 114 165 } with Global Support = 0.075798
+{ 114 166 } with Global Support = 0.090426
+{ 114 167 } with Global Support = 0.068484
+{ 114 168 } with Global Support = 0.117021
+{ 117 128 } with Global Support = 0.080452
+{ 117 168 } with Global Support = 0.077128
+{ 121 128 } with Global Support = 0.073138
+{ 121 139 } with Global Support = 0.075798
+{ 121 140 } with Global Support = 0.061170
+{ 121 168 } with Global Support = 0.068484
+{ 124 168 } with Global Support = 0.088431
+{ 128 133 } with Global Support = 0.075798
+{ 128 136 } with Global Support = 0.080452
+{ 128 139 } with Global Support = 0.107048
+{ 128 147 } with Global Support = 0.071144
+{ 128 164 } with Global Support = 0.085771
+{ 128 165 } with Global Support = 0.079122
+{ 128 168 } with Global Support = 0.097074
+{ 128 169 } with Global Support = 0.071809
+{ 128 173 } with Global Support = 0.061835
+{ 128 175 } with Global Support = 0.063830
+{ 131 168 } with Global Support = 0.065160
+{ 134 168 } with Global Support = 0.065160
+{ 139 140 } with Global Support = 0.121676
+{ 139 168 } with Global Support = 0.076463
+{ 159 168 } with Global Support = 0.112367
+{ 162 168 } with Global Support = 0.067154
+{ 164 168 } with Global Support = 0.065160
+{ 165 168 } with Global Support = 0.128989
+{ 167 168 } with Global Support = 0.064495
+{ 168 170 } with Global Support = 0.087766
+{ 168 174 } with Global Support = 0.075798
+{ 5 27 168 } with Global Support = 0.065824
+{ 5 91 168 } with Global Support = 0.060505
+{ 12 19 29 } with Global Support = 0.063830
+{ 12 19 43 } with Global Support = 0.075133
+{ 12 19 54 } with Global Support = 0.063830
+{ 12 19 100 } with Global Support = 0.104388
+{ 12 19 105 } with Global Support = 0.065824
+{ 12 19 106 } with Global Support = 0.078457
+{ 12 19 108 } with Global Support = 0.061835
+{ 12 19 114 } with Global Support = 0.103059
+{ 12 19 128 } with Global Support = 0.099069
+{ 12 23 114 } with Global Support = 0.064495
+{ 12 29 43 } with Global Support = 0.081782
+{ 12 29 54 } with Global Support = 0.073803
+{ 12 29 66 } with Global Support = 0.069814
+{ 12 29 100 } with Global Support = 0.077128
+{ 12 29 128 } with Global Support = 0.077128
+{ 12 30 114 } with Global Support = 0.061835
+{ 12 30 128 } with Global Support = 0.060505
+{ 12 31 100 } with Global Support = 0.067819
+{ 12 31 114 } with Global Support = 0.081117
+{ 12 31 128 } with Global Support = 0.087766
+{ 12 33 100 } with Global Support = 0.063830
+{ 12 42 43 } with Global Support = 0.063165
+{ 12 42 66 } with Global Support = 0.062500
+{ 12 42 100 } with Global Support = 0.068484
+{ 12 42 105 } with Global Support = 0.068484
+{ 12 42 114 } with Global Support = 0.075798
+{ 12 42 128 } with Global Support = 0.063165
+{ 12 42 136 } with Global Support = 0.062500
+{ 12 43 54 } with Global Support = 0.074468
+{ 12 43 66 } with Global Support = 0.064495
+{ 12 43 91 } with Global Support = 0.076463
+{ 12 43 100 } with Global Support = 0.085771
+{ 12 43 114 } with Global Support = 0.065824
+{ 12 43 128 } with Global Support = 0.086436
+{ 12 43 175 } with Global Support = 0.060505
+{ 12 47 128 } with Global Support = 0.066489
+{ 12 50 114 } with Global Support = 0.065160
+{ 12 50 128 } with Global Support = 0.069149
+{ 12 51 100 } with Global Support = 0.086436
+{ 12 51 105 } with Global Support = 0.073138
+{ 12 51 106 } with Global Support = 0.079122
+{ 12 51 155 } with Global Support = 0.076463
+{ 12 54 66 } with Global Support = 0.087101
+{ 12 54 100 } with Global Support = 0.081117
+{ 12 54 114 } with Global Support = 0.061170
+{ 12 54 128 } with Global Support = 0.087101
+{ 12 55 100 } with Global Support = 0.072473
+{ 12 55 114 } with Global Support = 0.077128
+{ 12 55 128 } with Global Support = 0.081117
+{ 12 58 114 } with Global Support = 0.065160
+{ 12 60 136 } with Global Support = 0.061835
+{ 12 63 100 } with Global Support = 0.062500
+{ 12 63 128 } with Global Support = 0.062500
+{ 12 66 100 } with Global Support = 0.071144
+{ 12 66 114 } with Global Support = 0.066489
+{ 12 66 128 } with Global Support = 0.071809
+{ 12 68 100 } with Global Support = 0.060505
+{ 12 68 114 } with Global Support = 0.061835
+{ 12 71 100 } with Global Support = 0.067819
+{ 12 71 114 } with Global Support = 0.079122
+{ 12 71 128 } with Global Support = 0.063830
+{ 12 74 114 } with Global Support = 0.065160
+{ 12 81 114 } with Global Support = 0.069149
+{ 12 81 128 } with Global Support = 0.062500
+{ 12 91 100 } with Global Support = 0.069149
+{ 12 91 128 } with Global Support = 0.063165
+{ 12 91 175 } with Global Support = 0.064495
+{ 12 97 100 } with Global Support = 0.061170
+{ 12 97 128 } with Global Support = 0.070479
+{ 12 98 114 } with Global Support = 0.062500
+{ 12 98 128 } with Global Support = 0.061170
+{ 12 100 105 } with Global Support = 0.107713
+{ 12 100 106 } with Global Support = 0.143617
+{ 12 100 108 } with Global Support = 0.071144
+{ 12 100 109 } with Global Support = 0.060505
+{ 12 100 114 } with Global Support = 0.148936
+{ 12 100 128 } with Global Support = 0.139628
+{ 12 100 136 } with Global Support = 0.065160
+{ 12 100 139 } with Global Support = 0.066489
+{ 12 100 155 } with Global Support = 0.077793
+{ 12 100 168 } with Global Support = 0.060505
+{ 12 100 169 } with Global Support = 0.063165
+{ 12 105 106 } with Global Support = 0.101729
+{ 12 105 114 } with Global Support = 0.082447
+{ 12 105 155 } with Global Support = 0.074468
+{ 12 106 114 } with Global Support = 0.126330
+{ 12 106 128 } with Global Support = 0.097739
+{ 12 106 155 } with Global Support = 0.076463
+{ 12 108 114 } with Global Support = 0.090426
+{ 12 108 128 } with Global Support = 0.086436
+{ 12 109 128 } with Global Support = 0.068484
+{ 12 114 128 } with Global Support = 0.190824
+{ 12 114 136 } with Global Support = 0.071144
+{ 12 114 139 } with Global Support = 0.075133
+{ 12 114 164 } with Global Support = 0.067154
+{ 12 128 136 } with Global Support = 0.061835
+{ 12 128 139 } with Global Support = 0.066489
+{ 12 128 164 } with Global Support = 0.067819
+{ 12 128 168 } with Global Support = 0.060505
+{ 19 100 106 } with Global Support = 0.061835
+{ 19 100 114 } with Global Support = 0.070479
+{ 19 100 128 } with Global Support = 0.069814
+{ 19 106 114 } with Global Support = 0.069149
+{ 19 114 128 } with Global Support = 0.068484
+{ 27 42 168 } with Global Support = 0.069149
+{ 27 47 168 } with Global Support = 0.070479
+{ 27 56 168 } with Global Support = 0.070479
+{ 27 66 168 } with Global Support = 0.071809
+{ 27 78 168 } with Global Support = 0.061835
+{ 27 83 168 } with Global Support = 0.061835
+{ 27 91 168 } with Global Support = 0.073138
+{ 27 100 168 } with Global Support = 0.074468
+{ 27 165 168 } with Global Support = 0.073803
+{ 29 43 54 } with Global Support = 0.071809
+{ 29 43 100 } with Global Support = 0.071144
+{ 29 43 128 } with Global Support = 0.071144
+{ 29 54 66 } with Global Support = 0.069814
+{ 29 54 100 } with Global Support = 0.069814
+{ 29 54 128 } with Global Support = 0.081782
+{ 29 66 100 } with Global Support = 0.061170
+{ 29 100 128 } with Global Support = 0.071809
+{ 29 114 128 } with Global Support = 0.061170
+{ 30 114 128 } with Global Support = 0.071809
+{ 31 100 114 } with Global Support = 0.074468
+{ 31 100 128 } with Global Support = 0.069814
+{ 31 114 128 } with Global Support = 0.087101
+{ 37 42 168 } with Global Support = 0.071144
+{ 42 56 78 } with Global Support = 0.064495
+{ 42 56 168 } with Global Support = 0.079122
+{ 42 66 100 } with Global Support = 0.061170
+{ 42 66 114 } with Global Support = 0.061170
+{ 42 66 168 } with Global Support = 0.077128
+{ 42 71 100 } with Global Support = 0.061835
+{ 42 71 114 } with Global Support = 0.069149
+{ 42 71 168 } with Global Support = 0.063165
+{ 42 78 168 } with Global Support = 0.078457
+{ 42 91 168 } with Global Support = 0.068484
+{ 42 100 114 } with Global Support = 0.075798
+{ 42 100 168 } with Global Support = 0.067819
+{ 42 105 168 } with Global Support = 0.063165
+{ 42 110 168 } with Global Support = 0.064495
+{ 42 114 128 } with Global Support = 0.070479
+{ 42 114 168 } with Global Support = 0.065160
+{ 42 159 168 } with Global Support = 0.069149
+{ 43 47 128 } with Global Support = 0.061170
+{ 43 54 66 } with Global Support = 0.065160
+{ 43 54 100 } with Global Support = 0.069814
+{ 43 54 128 } with Global Support = 0.085771
+{ 43 91 100 } with Global Support = 0.069814
+{ 43 91 128 } with Global Support = 0.063830
+{ 43 91 175 } with Global Support = 0.075133
+{ 43 100 128 } with Global Support = 0.077793
+{ 43 109 128 } with Global Support = 0.061170
+{ 43 114 128 } with Global Support = 0.070479
+{ 43 128 168 } with Global Support = 0.061835
+{ 47 74 114 } with Global Support = 0.063830
+{ 47 91 168 } with Global Support = 0.061170
+{ 47 100 128 } with Global Support = 0.062500
+{ 47 100 168 } with Global Support = 0.067154
+{ 47 114 128 } with Global Support = 0.069814
+{ 50 114 128 } with Global Support = 0.069814
+{ 51 100 105 } with Global Support = 0.069149
+{ 51 100 106 } with Global Support = 0.077128
+{ 51 100 155 } with Global Support = 0.073138
+{ 51 105 106 } with Global Support = 0.068484
+{ 51 105 155 } with Global Support = 0.070479
+{ 51 106 155 } with Global Support = 0.073803
+{ 54 66 100 } with Global Support = 0.073803
+{ 54 66 114 } with Global Support = 0.062500
+{ 54 66 128 } with Global Support = 0.071809
+{ 54 91 128 } with Global Support = 0.061170
+{ 54 100 128 } with Global Support = 0.083112
+{ 54 108 128 } with Global Support = 0.061835
+{ 54 109 128 } with Global Support = 0.063830
+{ 54 114 128 } with Global Support = 0.069814
+{ 54 128 168 } with Global Support = 0.064495
+{ 55 71 114 } with Global Support = 0.064495
+{ 55 100 114 } with Global Support = 0.084441
+{ 55 100 128 } with Global Support = 0.075798
+{ 55 114 128 } with Global Support = 0.090426
+{ 56 66 168 } with Global Support = 0.061170
+{ 56 78 168 } with Global Support = 0.090426
+{ 56 100 168 } with Global Support = 0.060505
+{ 56 114 168 } with Global Support = 0.069149
+{ 56 159 168 } with Global Support = 0.060505
+{ 57 90 114 } with Global Support = 0.061835
+{ 57 108 114 } with Global Support = 0.066489
+{ 57 114 128 } with Global Support = 0.069814
+{ 57 114 139 } with Global Support = 0.069814
+{ 58 81 114 } with Global Support = 0.065824
+{ 58 90 108 } with Global Support = 0.071809
+{ 58 90 114 } with Global Support = 0.105718
+{ 58 90 139 } with Global Support = 0.073803
+{ 58 90 140 } with Global Support = 0.082447
+{ 58 108 114 } with Global Support = 0.081117
+{ 58 108 139 } with Global Support = 0.064495
+{ 58 114 121 } with Global Support = 0.063830
+{ 58 114 128 } with Global Support = 0.079122
+{ 58 114 139 } with Global Support = 0.086436
+{ 58 114 140 } with Global Support = 0.085771
+{ 58 139 140 } with Global Support = 0.070479
+{ 59 60 136 } with Global Support = 0.067819
+{ 60 100 136 } with Global Support = 0.065160
+{ 61 90 114 } with Global Support = 0.065824
+{ 63 100 128 } with Global Support = 0.063830
+{ 63 114 128 } with Global Support = 0.069814
+{ 66 78 168 } with Global Support = 0.062500
+{ 66 91 100 } with Global Support = 0.061835
+{ 66 91 168 } with Global Support = 0.067154
+{ 66 100 114 } with Global Support = 0.061835
+{ 66 100 128 } with Global Support = 0.061170
+{ 66 100 168 } with Global Support = 0.070479
+{ 66 114 128 } with Global Support = 0.066489
+{ 66 165 168 } with Global Support = 0.062500
+{ 68 100 114 } with Global Support = 0.066489
+{ 71 81 114 } with Global Support = 0.061835
+{ 71 100 114 } with Global Support = 0.083777
+{ 71 114 128 } with Global Support = 0.080452
+{ 74 81 114 } with Global Support = 0.065160
+{ 74 114 128 } with Global Support = 0.074468
+{ 74 114 139 } with Global Support = 0.065824
+{ 78 159 168 } with Global Support = 0.070479
+{ 81 90 114 } with Global Support = 0.063830
+{ 81 108 114 } with Global Support = 0.077793
+{ 81 114 121 } with Global Support = 0.062500
+{ 81 114 128 } with Global Support = 0.076463
+{ 81 114 139 } with Global Support = 0.091090
+{ 81 114 140 } with Global Support = 0.074468
+{ 81 139 140 } with Global Support = 0.063165
+{ 83 91 168 } with Global Support = 0.062500
+{ 83 100 168 } with Global Support = 0.063165
+{ 90 108 114 } with Global Support = 0.080452
+{ 90 108 139 } with Global Support = 0.064495
+{ 90 108 140 } with Global Support = 0.060505
+{ 90 114 128 } with Global Support = 0.070479
+{ 90 114 139 } with Global Support = 0.089761
+{ 90 114 140 } with Global Support = 0.090426
+{ 90 139 140 } with Global Support = 0.074468
+{ 91 100 168 } with Global Support = 0.081782
+{ 91 110 168 } with Global Support = 0.062500
+{ 91 165 168 } with Global Support = 0.064495
+{ 94 114 128 } with Global Support = 0.061835
+{ 97 100 128 } with Global Support = 0.060505
+{ 98 114 128 } with Global Support = 0.062500
+{ 100 105 106 } with Global Support = 0.091755
+{ 100 105 114 } with Global Support = 0.067154
+{ 100 105 155 } with Global Support = 0.070479
+{ 100 106 114 } with Global Support = 0.105053
+{ 100 106 128 } with Global Support = 0.085771
+{ 100 106 155 } with Global Support = 0.074468
+{ 100 108 114 } with Global Support = 0.076463
+{ 100 108 128 } with Global Support = 0.076463
+{ 100 114 128 } with Global Support = 0.127660
+{ 100 114 136 } with Global Support = 0.066489
+{ 100 165 168 } with Global Support = 0.060505
+{ 105 106 155 } with Global Support = 0.069814
+{ 105 114 128 } with Global Support = 0.063830
+{ 106 114 128 } with Global Support = 0.091755
+{ 108 114 121 } with Global Support = 0.063830
+{ 108 114 128 } with Global Support = 0.095745
+{ 108 114 139 } with Global Support = 0.091755
+{ 108 114 140 } with Global Support = 0.070479
+{ 108 139 140 } with Global Support = 0.061170
+{ 109 114 128 } with Global Support = 0.065824
+{ 114 121 128 } with Global Support = 0.063165
+{ 114 121 139 } with Global Support = 0.068484
+{ 114 128 139 } with Global Support = 0.085771
+{ 114 128 164 } with Global Support = 0.072473
+{ 114 139 140 } with Global Support = 0.099069
+{ 12 19 100 106 } with Global Support = 0.061835
+{ 12 19 100 114 } with Global Support = 0.069149
+{ 12 19 100 128 } with Global Support = 0.069149
+{ 12 19 106 114 } with Global Support = 0.069149
+{ 12 19 114 128 } with Global Support = 0.065160
+{ 12 31 100 128 } with Global Support = 0.062500
+{ 12 31 114 128 } with Global Support = 0.073803
+{ 12 43 100 128 } with Global Support = 0.063165
+{ 12 50 114 128 } with Global Support = 0.061170
+{ 12 51 100 105 } with Global Support = 0.069149
+{ 12 51 100 106 } with Global Support = 0.077128
+{ 12 51 100 155 } with Global Support = 0.073138
+{ 12 51 105 106 } with Global Support = 0.068484
+{ 12 51 105 155 } with Global Support = 0.070479
+{ 12 51 106 155 } with Global Support = 0.073803
+{ 12 54 100 128 } with Global Support = 0.063830
+{ 12 55 100 128 } with Global Support = 0.061835
+{ 12 55 114 128 } with Global Support = 0.065160
+{ 12 100 105 106 } with Global Support = 0.088431
+{ 12 100 105 155 } with Global Support = 0.069814
+{ 12 100 106 114 } with Global Support = 0.098404
+{ 12 100 106 128 } with Global Support = 0.081117
+{ 12 100 106 155 } with Global Support = 0.074468
+{ 12 100 114 128 } with Global Support = 0.107713
+{ 12 105 106 155 } with Global Support = 0.069814
+{ 12 106 114 128 } with Global Support = 0.087101
+{ 12 108 114 128 } with Global Support = 0.069814
+{ 51 100 105 106 } with Global Support = 0.066489
+{ 51 100 105 155 } with Global Support = 0.067154
+{ 51 100 106 155 } with Global Support = 0.071809
+{ 51 105 106 155 } with Global Support = 0.068484
+{ 55 100 114 128 } with Global Support = 0.063165
+{ 58 90 114 139 } with Global Support = 0.063165
+{ 58 90 114 140 } with Global Support = 0.067819
+{ 90 114 139 140 } with Global Support = 0.065824
+{ 100 105 106 155 } with Global Support = 0.067819
+{ 100 106 114 128 } with Global Support = 0.076463
+{ 12 51 100 105 106 } with Global Support = 0.066489
+{ 12 51 100 105 155 } with Global Support = 0.067154
+{ 12 51 100 106 155 } with Global Support = 0.071809
+{ 12 51 105 106 155 } with Global Support = 0.068484
+{ 12 100 105 106 155 } with Global Support = 0.067819
+{ 12 100 106 114 128 } with Global Support = 0.073138
+{ 51 100 105 106 155 } with Global Support = 0.066489
+{ 12 51 100 105 106 155 } with Global Support = 0.066489
+Current System Time = 1033105755
+*** Adding clusters to warehouse
+1167 clusters are constructed
+*** Constructing initial clusters
+*** Computing frequent one itemsets for initial clusters
+*** Constructing clusters based on scores
+*** Computing frequent one itemsets for clusters
+Current System Time = 1033105779
+*** Building the tree
+*** Recomputing the frequent one itemsets using tree children
+Current System Time = 1033105779
+*** Removing empty clusters
+0 internal empty clusters are pruned!
+590 empty clusters are pruned!
+*** Pruning children clusters based on inter-cluster similarity with parent
+340 children clusters are pruned!
+*** Pruning clusters based on inter-cluster similarity
+104 clusters at level 1 are merged with sibling!
+*** Over prune clusters to satisfy specified # of clusters
+13 clusters at level 1 are merged!
+Current System Time = 1033105783
+** Class: money **
+Cluster Label:
+dollar	1.000000
+accord	1.000000
+agre	1.000000
+agreem	1.000000
+bank	1.000000
+canada	1.000000
+central	1.000000
+currenc	1.000000
+current	1.000000
+cut	1.000000
+dealer	1.000000
+declin	1.000000
+dlr	1.000000
+econom	1.000000
+exchang	1.000000
+expect	1.000000
+fall	1.000000
+februari	1.000000
+financ	1.000000
+foreign	1.000000
+franc	1.000000
+germani	1.000000
+industri	1.000000
+interv	1.000000
+japan	1.000000
+level	1.000000
+major	1.000000
+market	1.000000
+monetari	1.000000
+month	1.000000
+nation	1.000000
+pari	1.000000
+pct	1.000000
+polici	1.000000
+rate	1.000000
+rise	1.000000
+told	1.000000
+trade	1.000000
+west	1.000000
+yen	1.000000
+Cluster Frequent Items:
+bank	0.629905
+dlr	0.293743
+dollar	0.296925
+market	0.454931
+mln	0.286320
+monei	0.301166
+pct	0.548250
+rate	0.493107
+** Class: interest **
+Cluster Label:
+dollar	1.000000
+accord	1.000000
+agre	1.000000
+agreem	1.000000
+bank	1.000000
+canada	1.000000
+central	1.000000
+currenc	1.000000
+current	1.000000
+cut	1.000000
+dealer	1.000000
+declin	1.000000
+dlr	1.000000
+econom	1.000000
+exchang	1.000000
+expect	1.000000
+fall	1.000000
+februari	1.000000
+financ	1.000000
+foreign	1.000000
+franc	1.000000
+germani	1.000000
+industri	1.000000
+interv	1.000000
+japan	1.000000
+level	1.000000
+major	1.000000
+market	1.000000
+monetari	1.000000
+month	1.000000
+nation	1.000000
+pari	1.000000
+pct	1.000000
+polici	1.000000
+rate	1.000000
+rise	1.000000
+told	1.000000
+trade	1.000000
+west	1.000000
+yen	1.000000
+Cluster Frequent Items:
+bank	0.629905
+dlr	0.293743
+dollar	0.296925
+market	0.454931
+mln	0.286320
+monei	0.301166
+pct	0.548250
+rate	0.493107
+** Class: gnp **
+Cluster Label:
+dollar	1.000000
+accord	1.000000
+agre	1.000000
+agreem	1.000000
+bank	1.000000
+canada	1.000000
+central	1.000000
+currenc	1.000000
+current	1.000000
+cut	1.000000
+dealer	1.000000
+declin	1.000000
+dlr	1.000000
+econom	1.000000
+exchang	1.000000
+expect	1.000000
+fall	1.000000
+februari	1.000000
+financ	1.000000
+foreign	1.000000
+franc	1.000000
+germani	1.000000
+industri	1.000000
+interv	1.000000
+japan	1.000000
+level	1.000000
+major	1.000000
+market	1.000000
+monetari	1.000000
+month	1.000000
+nation	1.000000
+pari	1.000000
+pct	1.000000
+polici	1.000000
+rate	1.000000
+rise	1.000000
+told	1.000000
+trade	1.000000
+west	1.000000
+yen	1.000000
+Cluster Frequent Items:
+bank	0.629905
+dlr	0.293743
+dollar	0.296925
+market	0.454931
+mln	0.286320
+monei	0.301166
+pct	0.548250
+rate	0.493107
+** Class: trade **
+Cluster Label:
+japan	1.000000
+action	1.000000
+agreem	1.000000
+announc	1.000000
+april	1.000000
+countri	1.000000
+cut	1.000000
+dlr	1.000000
+effect	1.000000
+export	1.000000
+foreign	1.000000
+govern	1.000000
+import	1.000000
+industri	1.000000
+intern	1.000000
+issu	1.000000
+level	1.000000
+market	1.000000
+minist	1.000000
+ministri	1.000000
+mln	1.000000
+month	1.000000
+offici	1.000000
+plan	1.000000
+presid	1.000000
+price	1.000000
+prime	1.000000
+product	1.000000
+report	1.000000
+surplu	1.000000
+tarif	1.000000
+told	1.000000
+trade	1.000000
+unit	1.000000
+washington	1.000000
+world	1.000000
+Cluster Frequent Items:
+agreem	0.326531
+countri	0.434402
+deficit	0.300292
+dlr	0.478134
+export	0.396501
+foreign	0.384840
+govern	0.291545
+import	0.399417
+industri	0.300292
+intern	0.250729
+japan	0.384840
+market	0.341108
+mln	0.306122
+offici	0.361516
+pct	0.253644
+surplu	0.314869
+told	0.349854
+trade	0.778426
+unit	0.279883
+** Class: reserves **
+Cluster Label:
+foreign	1.000000
+reserv	1.000000
+bank	1.000000
+compar	1.000000
+dlr	1.000000
+exchang	1.000000
+fall	1.000000
+februari	1.000000
+fell	1.000000
+figur	1.000000
+import	1.000000
+januari	1.000000
+month	1.000000
+offici	1.000000
+statist	1.000000
+Cluster Frequent Items:
+bank	0.833333
+compar	0.333333
+dlr	0.833333
+exchang	0.333333
+fall	0.833333
+februari	0.500000
+fell	0.666667
+figur	0.333333
+foreign	1.000000
+import	0.333333
+januari	0.500000
+month	0.333333
+offici	0.500000
+reserv	1.000000
+statist	0.500000
+** Class: bop **
+Cluster Label:
+japan	1.000000
+action	1.000000
+agreem	1.000000
+announc	1.000000
+april	1.000000
+countri	1.000000
+cut	1.000000
+dlr	1.000000
+effect	1.000000
+export	1.000000
+foreign	1.000000
+govern	1.000000
+import	1.000000
+industri	1.000000
+intern	1.000000
+issu	1.000000
+level	1.000000
+market	1.000000
+minist	1.000000
+ministri	1.000000
+mln	1.000000
+month	1.000000
+offici	1.000000
+plan	1.000000
+presid	1.000000
+price	1.000000
+prime	1.000000
+product	1.000000
+report	1.000000
+surplu	1.000000
+tarif	1.000000
+told	1.000000
+trade	1.000000
+unit	1.000000
+washington	1.000000
+world	1.000000
+Cluster Frequent Items:
+agreem	0.326531
+countri	0.434402
+deficit	0.300292
+dlr	0.478134
+export	0.396501
+foreign	0.384840
+govern	0.291545
+import	0.399417
+industri	0.300292
+intern	0.250729
+japan	0.384840
+market	0.341108
+mln	0.306122
+offici	0.361516
+pct	0.253644
+surplu	0.314869
+told	0.349854
+trade	0.778426
+unit	0.279883
+** Class: jobs **
+Cluster Label:
+januari	1.000000
+adjust	1.000000
+bank	1.000000
+compar	1.000000
+decemb	1.000000
+declin	1.000000
+earlier	1.000000
+fall	1.000000
+februari	1.000000
+fell	1.000000
+figur	1.000000
+increa	1.000000
+index	1.000000
+industri	1.000000
+month	1.000000
+pct	1.000000
+previou	1.000000
+rise	1.000000
+rose	1.000000
+season	1.000000
+statist	1.000000
+total	1.000000
+Cluster Frequent Items:
+adjust	0.339450
+compar	0.357798
+decemb	0.376147
+fall	0.389908
+februari	0.614679
+fell	0.449541
+figur	0.311927
+increa	0.330275
+index	0.311927
+januari	0.711009
+month	0.426606
+pct	0.862385
+price	0.334862
+rise	0.527523
+rose	0.605505
+season	0.316514
+statist	0.408257
+** Class: cpi **
+Cluster Label:
+januari	1.000000
+adjust	1.000000
+bank	1.000000
+compar	1.000000
+decemb	1.000000
+declin	1.000000
+earlier	1.000000
+fall	1.000000
+februari	1.000000
+fell	1.000000
+figur	1.000000
+increa	1.000000
+index	1.000000
+industri	1.000000
+month	1.000000
+pct	1.000000
+previou	1.000000
+rise	1.000000
+rose	1.000000
+season	1.000000
+statist	1.000000
+total	1.000000
+Cluster Frequent Items:
+adjust	0.339450
+compar	0.357798
+decemb	0.376147
+fall	0.389908
+februari	0.614679
+fell	0.449541
+figur	0.311927
+increa	0.330275
+index	0.311927
+januari	0.711009
+month	0.426606
+pct	0.862385
+price	0.334862
+rise	0.527523
+rose	0.605505
+season	0.316514
+statist	0.408257
+** Class: ipi **
+Cluster Label:
+januari	1.000000
+adjust	1.000000
+bank	1.000000
+compar	1.000000
+decemb	1.000000
+declin	1.000000
+earlier	1.000000
+fall	1.000000
+februari	1.000000
+fell	1.000000
+figur	1.000000
+increa	1.000000
+index	1.000000
+industri	1.000000
+month	1.000000
+pct	1.000000
+previou	1.000000
+rise	1.000000
+rose	1.000000
+season	1.000000
+statist	1.000000
+total	1.000000
+Cluster Frequent Items:
+adjust	0.339450
+compar	0.357798
+decemb	0.376147
+fall	0.389908
+februari	0.614679
+fell	0.449541
+figur	0.311927
+increa	0.330275
+index	0.311927
+januari	0.711009
+month	0.426606
+pct	0.862385
+price	0.334862
+rise	0.527523
+rose	0.605505
+season	0.316514
+statist	0.408257
+** Class: housing **
+Cluster Label:
+januari	1.000000
+adjust	1.000000
+bank	1.000000
+compar	1.000000
+decemb	1.000000
+declin	1.000000
+earlier	1.000000
+fall	1.000000
+februari	1.000000
+fell	1.000000
+figur	1.000000
+increa	1.000000
+index	1.000000
+industri	1.000000
+month	1.000000
+pct	1.000000
+previou	1.000000
+rise	1.000000
+rose	1.000000
+season	1.000000
+statist	1.000000
+total	1.000000
+Cluster Frequent Items:
+adjust	0.339450
+compar	0.357798
+decemb	0.376147
+fall	0.389908
+februari	0.614679
+fell	0.449541
+figur	0.311927
+increa	0.330275
+index	0.311927
+januari	0.711009
+month	0.426606
+pct	0.862385
+price	0.334862
+rise	0.527523
+rose	0.605505
+season	0.316514
+statist	0.408257
+** Class: retail **
+Cluster Label:
+januari	1.000000
+adjust	1.000000
+bank	1.000000
+compar	1.000000
+decemb	1.000000
+declin	1.000000
+earlier	1.000000
+fall	1.000000
+februari	1.000000
+fell	1.000000
+figur	1.000000
+increa	1.000000
+index	1.000000
+industri	1.000000
+month	1.000000
+pct	1.000000
+previou	1.000000
+rise	1.000000
+rose	1.000000
+season	1.000000
+statist	1.000000
+total	1.000000
+Cluster Frequent Items:
+adjust	0.339450
+compar	0.357798
+decemb	0.376147
+fall	0.389908
+februari	0.614679
+fell	0.449541
+figur	0.311927
+increa	0.330275
+index	0.311927
+januari	0.711009
+month	0.426606
+pct	0.862385
+price	0.334862
+rise	0.527523
+rose	0.605505
+season	0.316514
+statist	0.408257
+** Class: lei **
+Cluster Label:
+januari	1.000000
+adjust	1.000000
+bank	1.000000
+compar	1.000000
+decemb	1.000000
+declin	1.000000
+earlier	1.000000
+fall	1.000000
+februari	1.000000
+fell	1.000000
+figur	1.000000
+increa	1.000000
+index	1.000000
+industri	1.000000
+month	1.000000
+pct	1.000000
+previou	1.000000
+rise	1.000000
+rose	1.000000
+season	1.000000
+statist	1.000000
+total	1.000000
+Cluster Frequent Items:
+adjust	0.339450
+compar	0.357798
+decemb	0.376147
+fall	0.389908
+februari	0.614679
+fell	0.449541
+figur	0.311927
+increa	0.330275
+index	0.311927
+januari	0.711009
+month	0.426606
+pct	0.862385
+price	0.334862
+rise	0.527523
+rose	0.605505
+season	0.316514
+statist	0.408257
+** Class: wpi **
+Cluster Label:
+januari	1.000000
+adjust	1.000000
+bank	1.000000
+compar	1.000000
+decemb	1.000000
+declin	1.000000
+earlier	1.000000
+fall	1.000000
+februari	1.000000
+fell	1.000000
+figur	1.000000
+increa	1.000000
+index	1.000000
+industri	1.000000
+month	1.000000
+pct	1.000000
+previou	1.000000
+rise	1.000000
+rose	1.000000
+season	1.000000
+statist	1.000000
+total	1.000000
+Cluster Frequent Items:
+adjust	0.339450
+compar	0.357798
+decemb	0.376147
+fall	0.389908
+februari	0.614679
+fell	0.449541
+figur	0.311927
+increa	0.330275
+index	0.311927
+januari	0.711009
+month	0.426606
+pct	0.862385
+price	0.334862
+rise	0.527523
+rose	0.605505
+season	0.316514
+statist	0.408257
+F-Measure = 0.529230
+Entropy (Flat) = 1.238704
+*** Writing XML file
+Output file: ..\re0006025003_0.529230_1.238704.xml
+Current System Time = 1033105784
+Bye!

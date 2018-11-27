@@ -1,0 +1,69 @@
+
+# of documents: 7094, min_sup = 0.100000
+
+Frequent one itemsets:
+(algorithm,0) (comput,1) (develop,2) (effect,3) (flow,4) (inform,5) (method,6) (result,7) (studi,8) 
+********
+* FIHC *
+********
+Current System Time = 1032045386
+*** Computing global frequent itemsets using Apriori
+F1 size [9]
+Global frequent itemsets
+{ 0 } with Global Support = 0.147730
+{ 1 } with Global Support = 0.105159
+{ 2 } with Global Support = 0.102763
+{ 3 } with Global Support = 0.124330
+{ 4 } with Global Support = 0.109529
+{ 5 } with Global Support = 0.104173
+{ 6 } with Global Support = 0.128700
+{ 7 } with Global Support = 0.158726
+{ 8 } with Global Support = 0.127009
+Current System Time = 1032045386
+*** Adding clusters to warehouse
+9 clusters are constructed
+*** Constructing initial clusters
+*** Computing frequent one itemsets for initial clusters
+*** Constructing clusters based on scores
+*** Computing frequent one itemsets for clusters
+Current System Time = 1032045387
+*** Building the tree
+*** Recomputing the frequent one itemsets using tree children
+Current System Time = 1032045387
+*** Removing empty clusters
+0 internal empty clusters are pruned!
+0 empty clusters are pruned!
+*** Pruning children clusters based on inter-cluster similarity with parent
+0 children clusters are pruned!
+*** Pruning clusters based on inter-cluster similarity
+2 clusters at level 1 are merged with sibling!
+Current System Time = 1032045387
+** Class: cacm **
+Cluster Label: algorithm	1.000000
+Cluster Frequent Items:
+algorithm	1.000000
+** Class: cisi **
+Cluster Label: inform	1.000000
+Cluster Frequent Items:
+inform	1.000000
+** Class: cran **
+Cluster Label: flow	1.000000
+effect	1.000000
+method	1.000000
+result	1.000000
+Cluster Frequent Items:
+effect	0.625332
+flow	0.596103
+result	0.364039
+** Class: med **
+Cluster Label: studi	1.000000
+result	1.000000
+Cluster Frequent Items:
+result	0.603825
+studi	0.610656
+F-Measure = 0.626356
+Entropy (Flat) = 0.493282
+*** Writing XML file
+Output file: ..\classic4010025000_0.626356_0.493282.xml
+Current System Time = 1032045388
+Bye!
