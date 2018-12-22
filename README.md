@@ -1,4 +1,4 @@
-# Frequent-Itemset-based-Hierarchical-Clustering-FIHC-
+# Frequent-Itemset-based Hierarchical Clustering (FIHC)
 A hierarchical document clustering method based on frequent itemsets
 
 Publication:
